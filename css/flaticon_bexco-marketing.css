@@ -1,0 +1,243 @@
+@font-face {
+	font-family: "flaticon_bexco-marketing";
+	src: url("../fonts/pbmit-bexco-marketing-icon/flaticon_bexco-marketing.ttf?873f568e873866e60b4a74cb43a22b55") format("truetype"),
+url("../fonts/pbmit-bexco-marketing-icon/flaticon_bexco-marketing.woff?873f568e873866e60b4a74cb43a22b55") format("woff"),
+url("../fonts/pbmit-bexco-marketing-icon/flaticon_bexco-marketing.woff2?873f568e873866e60b4a74cb43a22b55") format("woff2"),
+url("../fonts/pbmit-bexco-marketing-icon/flaticon_bexco-marketing.eot?873f568e873866e60b4a74cb43a22b55#iefix") format("embedded-opentype"),
+url("../fonts/pbmit-bexco-marketing-icon/flaticon_bexco-marketing.svg?873f568e873866e60b4a74cb43a22b55#flaticon_bexco-marketing") format("svg");
+}
+i[class^="flaticon-"]:before, i[class*=" pbmit-bexco-marketing-icon-"]:before {
+	font-family: flaticon_bexco-marketing !important;
+	font-style: normal;
+	font-weight: normal !important;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.pbmit-bexco-marketing-icon-cost-per-click:before {
+	content: "\f101";
+}
+.pbmit-bexco-marketing-icon-deadline:before {
+	content: "\f102";
+}
+.pbmit-bexco-marketing-icon-browser:before {
+	content: "\f103";
+}
+.pbmit-bexco-marketing-icon-viral:before {
+	content: "\f104";
+}
+.pbmit-bexco-marketing-icon-certificate:before {
+	content: "\f105";
+}
+.pbmit-bexco-marketing-icon-mobile:before {
+	content: "\f106";
+}
+.pbmit-bexco-marketing-icon-market:before {
+	content: "\f107";
+}
+.pbmit-bexco-marketing-icon-rates:before {
+	content: "\f108";
+}
+.pbmit-bexco-marketing-icon-device:before {
+	content: "\f109";
+}
+.pbmit-bexco-marketing-icon-internet:before {
+	content: "\f10a";
+}
+.pbmit-bexco-marketing-icon-active:before {
+	content: "\f10b";
+}
+.pbmit-bexco-marketing-icon-mail:before {
+	content: "\f10c";
+}
+.pbmit-bexco-marketing-icon-online:before {
+	content: "\f10d";
+}
+.pbmit-bexco-marketing-icon-photography:before {
+	content: "\f10e";
+}
+.pbmit-bexco-marketing-icon-setting:before {
+	content: "\f10f";
+}
+.pbmit-bexco-marketing-icon-smartwatch:before {
+	content: "\f110";
+}
+.pbmit-bexco-marketing-icon-target:before {
+	content: "\f111";
+}
+.pbmit-bexco-marketing-icon-technical-support:before {
+	content: "\f112";
+}
+.pbmit-bexco-marketing-icon-web:before {
+	content: "\f113";
+}
+.pbmit-bexco-marketing-icon-cloud:before {
+	content: "\f114";
+}
+.pbmit-bexco-marketing-icon-copywriting:before {
+	content: "\f115";
+}
+.pbmit-bexco-marketing-icon-cloud-1:before {
+	content: "\f116";
+}
+.pbmit-bexco-marketing-icon-monitor:before {
+	content: "\f117";
+}
+.pbmit-bexco-marketing-icon-desktop:before {
+	content: "\f118";
+}
+.pbmit-bexco-marketing-icon-intersection:before {
+	content: "\f119";
+}
+.pbmit-bexco-marketing-icon-layers:before {
+	content: "\f11a";
+}
+.pbmit-bexco-marketing-icon-vector:before {
+	content: "\f11b";
+}
+.pbmit-bexco-marketing-icon-crop:before {
+	content: "\f11c";
+}
+.pbmit-bexco-marketing-icon-set-square:before {
+	content: "\f11d";
+}
+.pbmit-bexco-marketing-icon-oil-paint:before {
+	content: "\f11e";
+}
+.pbmit-bexco-marketing-icon-compass:before {
+	content: "\f11f";
+}
+.pbmit-bexco-marketing-icon-vector-1:before {
+	content: "\f120";
+}
+.pbmit-bexco-marketing-icon-pathfinder:before {
+	content: "\f121";
+}
+.pbmit-bexco-marketing-icon-pantone:before {
+	content: "\f122";
+}
+.pbmit-bexco-marketing-icon-star:before {
+	content: "\f123";
+}
+.pbmit-bexco-marketing-icon-wallet:before {
+	content: "\f124";
+}
+.pbmit-bexco-marketing-icon-bank:before {
+	content: "\f125";
+}
+.pbmit-bexco-marketing-icon-goal:before {
+	content: "\f126";
+}
+.pbmit-bexco-marketing-icon-startup:before {
+	content: "\f127";
+}
+.pbmit-bexco-marketing-icon-safebox:before {
+	content: "\f128";
+}
+.pbmit-bexco-marketing-icon-money-bag:before {
+	content: "\f129";
+}
+.pbmit-bexco-marketing-icon-present:before {
+	content: "\f12a";
+}
+.pbmit-bexco-marketing-icon-idea:before {
+	content: "\f12b";
+}
+.pbmit-bexco-marketing-icon-briefcase:before {
+	content: "\f12c";
+}
+.pbmit-bexco-marketing-icon-money:before {
+	content: "\f12d";
+}
+.pbmit-bexco-marketing-icon-feedback:before {
+	content: "\f12e";
+}
+.pbmit-bexco-marketing-icon-email:before {
+	content: "\f12f";
+}
+.pbmit-bexco-marketing-icon-donation:before {
+	content: "\f130";
+}
+.pbmit-bexco-marketing-icon-promotion:before {
+	content: "\f131";
+}
+.pbmit-bexco-marketing-icon-guarantee:before {
+	content: "\f132";
+}
+.pbmit-bexco-marketing-icon-target-1:before {
+	content: "\f133";
+}
+.pbmit-bexco-marketing-icon-check:before {
+	content: "\f134";
+}
+.pbmit-bexco-marketing-icon-line-chart:before {
+	content: "\f135";
+}
+.pbmit-bexco-marketing-icon-medal:before {
+	content: "\f136";
+}
+.pbmit-bexco-marketing-icon-diamond:before {
+	content: "\f137";
+}
+.pbmit-bexco-marketing-icon-signal-tower:before {
+	content: "\f138";
+}
+.pbmit-bexco-marketing-icon-shopping-cart:before {
+	content: "\f139";
+}
+.pbmit-bexco-marketing-icon-bank-1:before {
+	content: "\f13a";
+}
+.pbmit-bexco-marketing-icon-laptop-screen:before {
+	content: "\f13b";
+}
+.pbmit-bexco-marketing-icon-suitcase:before {
+	content: "\f13c";
+}
+.pbmit-bexco-marketing-icon-price-tag:before {
+	content: "\f13d";
+}
+.pbmit-bexco-marketing-icon-piggy-bank:before {
+	content: "\f13e";
+}
+.pbmit-bexco-marketing-icon-megaphone:before {
+	content: "\f13f";
+}
+.pbmit-bexco-marketing-icon-cv:before {
+	content: "\f140";
+}
+.pbmit-bexco-marketing-icon-dollar-coin:before {
+	content: "\f141";
+}
+.pbmit-bexco-marketing-icon-wallet-1:before {
+	content: "\f142";
+}
+.pbmit-bexco-marketing-icon-man:before {
+	content: "\f143";
+}
+.pbmit-bexco-marketing-icon-magnifying-glass:before {
+	content: "\f144";
+}
+.pbmit-bexco-marketing-icon-hierarchy:before {
+	content: "\f145";
+}
+.pbmit-bexco-marketing-icon-dollar-coin-1:before {
+	content: "\f146";
+}
+.pbmit-bexco-marketing-icon-customer-support:before {
+	content: "\f147";
+}
+.pbmit-bexco-marketing-icon-next:before {
+	content: "\f148";
+}
+.pbmit-bexco-marketing-icon-up-right-arrow:before {
+	content: "\f149";
+}
+.pbmit-bexco-marketing-icon-circle:before {
+	content: "\f14a";
+}
+.pbmit-bexco-marketing-icon-star-of-life:before {
+	content: "\f14b";
+}

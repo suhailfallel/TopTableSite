@@ -1,0 +1,122 @@
+@font-face {
+    font-family: "flaticon_bexco-software";
+    src: url("../fonts/pbmit-bexco-software-icon/flaticon_bexco-software.ttf?9eca72e7b28f85f2588d2cbeb22ebd6a") format("truetype"),
+url("../fonts/pbmit-bexco-software-icon/flaticon_bexco-software.woff?9eca72e7b28f85f2588d2cbeb22ebd6a") format("woff"),
+url("../fonts/pbmit-bexco-software-icon/flaticon_bexco-software.woff2?9eca72e7b28f85f2588d2cbeb22ebd6a") format("woff2"),
+url("../fonts/pbmit-bexco-software-icon/flaticon_bexco-software.eot?9eca72e7b28f85f2588d2cbeb22ebd6a#iefix") format("embedded-opentype"),
+url("../fonts/pbmit-bexco-software-icon/flaticon_bexco-software.svg?9eca72e7b28f85f2588d2cbeb22ebd6a#flaticon_bexco-software") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" pbmit-bexco-software-icon-"]:before {
+    font-family: flaticon_bexco-software !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pbmit-bexco-software-icon-cube:before {
+    content: "\f101";
+}
+.pbmit-bexco-software-icon-down-arrow:before {
+    content: "\f102";
+}
+.pbmit-bexco-software-icon-increase:before {
+    content: "\f103";
+}
+.pbmit-bexco-software-icon-product-return:before {
+    content: "\f104";
+}
+.pbmit-bexco-software-icon-inbound:before {
+    content: "\f105";
+}
+.pbmit-bexco-software-icon-campaign:before {
+    content: "\f106";
+}
+.pbmit-bexco-software-icon-upgrade:before {
+    content: "\f107";
+}
+.pbmit-bexco-software-icon-imac-computer:before {
+    content: "\f108";
+}
+.pbmit-bexco-software-icon-widget:before {
+    content: "\f109";
+}
+.pbmit-bexco-software-icon-layer:before {
+    content: "\f10a";
+}
+.pbmit-bexco-software-icon-software:before {
+    content: "\f10b";
+}
+.pbmit-bexco-software-icon-sd-card:before {
+    content: "\f10c";
+}
+.pbmit-bexco-software-icon-software-engineer:before {
+    content: "\f10d";
+}
+.pbmit-bexco-software-icon-software-1:before {
+    content: "\f10e";
+}
+.pbmit-bexco-software-icon-software-2:before {
+    content: "\f10f";
+}
+.pbmit-bexco-software-icon-cloud-service:before {
+    content: "\f110";
+}
+.pbmit-bexco-software-icon-software-engineer-1:before {
+    content: "\f111";
+}
+.pbmit-bexco-software-icon-software-development:before {
+    content: "\f112";
+}
+.pbmit-bexco-software-icon-cloud:before {
+    content: "\f113";
+}
+.pbmit-bexco-software-icon-software-3:before {
+    content: "\f114";
+}
+.pbmit-bexco-software-icon-coding:before {
+    content: "\f115";
+}
+.pbmit-bexco-software-icon-illustration:before {
+    content: "\f116";
+}
+.pbmit-bexco-software-icon-artificial-intelligence:before {
+    content: "\f117";
+}
+.pbmit-bexco-software-icon-algorithm:before {
+    content: "\f118";
+}
+.pbmit-bexco-software-icon-development:before {
+    content: "\f119";
+}
+.pbmit-bexco-software-icon-software-engineer-2:before {
+    content: "\f11a";
+}
+.pbmit-bexco-software-icon-software-developer:before {
+    content: "\f11b";
+}
+.pbmit-bexco-software-icon-security:before {
+    content: "\f11c";
+}
+.pbmit-bexco-software-icon-react:before {
+    content: "\f11d";
+}
+.pbmit-bexco-software-icon-certificate:before {
+    content: "\f11e";
+}
+.pbmit-bexco-software-icon-installing:before {
+    content: "\f11f";
+}
+.pbmit-bexco-software-icon-maintenance:before {
+    content: "\f120";
+}
+.pbmit-bexco-software-icon-software-4:before {
+    content: "\f121";
+}
+.pbmit-bexco-software-icon-cloud-1:before {
+    content: "\f122";
+}

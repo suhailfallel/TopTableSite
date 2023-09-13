@@ -1,0 +1,209 @@
+@font-face {
+    font-family: "flaticon_bexco-restaurant";
+    src: url("./flaticon_bexco-restaurant.ttf?a45951600214ec955cffc25960184b81") format("truetype"),
+url("./flaticon_bexco-restaurant.woff?a45951600214ec955cffc25960184b81") format("woff"),
+url("./flaticon_bexco-restaurant.woff2?a45951600214ec955cffc25960184b81") format("woff2"),
+url("./flaticon_bexco-restaurant.eot?a45951600214ec955cffc25960184b81#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-restaurant.svg?a45951600214ec955cffc25960184b81#flaticon_bexco-restaurant") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" pbmit-bexco-restaurant-icon-"]:before {
+    font-family: flaticon_bexco-restaurant !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pbmit-bexco-restaurant-icon-arrow-down:before {
+    content: "\f101";
+}
+.pbmit-bexco-restaurant-icon-play-button:before {
+    content: "\f102";
+}
+.pbmit-bexco-restaurant-icon-like:before {
+    content: "\f103";
+}
+.pbmit-bexco-restaurant-icon-search:before {
+    content: "\f104";
+}
+.pbmit-bexco-restaurant-icon-email:before {
+    content: "\f105";
+}
+.pbmit-bexco-restaurant-icon-envelope-of-white-paper:before {
+    content: "\f106";
+}
+.pbmit-bexco-restaurant-icon-cardiogram:before {
+    content: "\f107";
+}
+.pbmit-bexco-restaurant-icon-record-button:before {
+    content: "\f108";
+}
+.pbmit-bexco-restaurant-icon-record:before {
+    content: "\f109";
+}
+.pbmit-bexco-restaurant-icon-phone-call:before {
+    content: "\f10a";
+}
+.pbmit-bexco-restaurant-icon-at:before {
+    content: "\f10b";
+}
+.pbmit-bexco-restaurant-icon-chat:before {
+    content: "\f10c";
+}
+.pbmit-bexco-restaurant-icon-play-button-1:before {
+    content: "\f10d";
+}
+.pbmit-bexco-restaurant-icon-play:before {
+    content: "\f10e";
+}
+.pbmit-bexco-restaurant-icon-restaurant:before {
+    content: "\f10f";
+}
+.pbmit-bexco-restaurant-icon-cutlery:before {
+    content: "\f110";
+}
+.pbmit-bexco-restaurant-icon-food-serving:before {
+    content: "\f111";
+}
+.pbmit-bexco-restaurant-icon-cooking:before {
+    content: "\f112";
+}
+.pbmit-bexco-restaurant-icon-cooking-1:before {
+    content: "\f113";
+}
+.pbmit-bexco-restaurant-icon-pot:before {
+    content: "\f114";
+}
+.pbmit-bexco-restaurant-icon-cooking-2:before {
+    content: "\f115";
+}
+.pbmit-bexco-restaurant-icon-waiter:before {
+    content: "\f116";
+}
+.pbmit-bexco-restaurant-icon-waiter-1:before {
+    content: "\f117";
+}
+.pbmit-bexco-restaurant-icon-restaurant-menu:before {
+    content: "\f118";
+}
+.pbmit-bexco-restaurant-icon-order-food:before {
+    content: "\f119";
+}
+.pbmit-bexco-restaurant-icon-restaurant-menu-1:before {
+    content: "\f11a";
+}
+.pbmit-bexco-restaurant-icon-fast-food:before {
+    content: "\f11b";
+}
+.pbmit-bexco-restaurant-icon-restaurant-1:before {
+    content: "\f11c";
+}
+.pbmit-bexco-restaurant-icon-menu:before {
+    content: "\f11d";
+}
+.pbmit-bexco-restaurant-icon-champagne-glass:before {
+    content: "\f11e";
+}
+.pbmit-bexco-restaurant-icon-chef:before {
+    content: "\f11f";
+}
+.pbmit-bexco-restaurant-icon-kitchen-tools:before {
+    content: "\f120";
+}
+.pbmit-bexco-restaurant-icon-cupcake:before {
+    content: "\f121";
+}
+.pbmit-bexco-restaurant-icon-donut:before {
+    content: "\f122";
+}
+.pbmit-bexco-restaurant-icon-salad:before {
+    content: "\f123";
+}
+.pbmit-bexco-restaurant-icon-diet:before {
+    content: "\f124";
+}
+.pbmit-bexco-restaurant-icon-pizza:before {
+    content: "\f125";
+}
+.pbmit-bexco-restaurant-icon-take-away:before {
+    content: "\f126";
+}
+.pbmit-bexco-restaurant-icon-strawberries:before {
+    content: "\f127";
+}
+.pbmit-bexco-restaurant-icon-cocktail:before {
+    content: "\f128";
+}
+.pbmit-bexco-restaurant-icon-food-service:before {
+    content: "\f129";
+}
+.pbmit-bexco-restaurant-icon-location:before {
+    content: "\f12a";
+}
+.pbmit-bexco-restaurant-icon-restaurant-2:before {
+    content: "\f12b";
+}
+.pbmit-bexco-restaurant-icon-dinner-table:before {
+    content: "\f12c";
+}
+.pbmit-bexco-restaurant-icon-birthday-cupcake:before {
+    content: "\f12d";
+}
+.pbmit-bexco-restaurant-icon-cooking-3:before {
+    content: "\f12e";
+}
+.pbmit-bexco-restaurant-icon-fast-food-1:before {
+    content: "\f12f";
+}
+.pbmit-bexco-restaurant-icon-drink:before {
+    content: "\f130";
+}
+.pbmit-bexco-restaurant-icon-restaurant-3:before {
+    content: "\f131";
+}
+.pbmit-bexco-restaurant-icon-coconut-drink:before {
+    content: "\f132";
+}
+.pbmit-bexco-restaurant-icon-location-1:before {
+    content: "\f133";
+}
+.pbmit-bexco-restaurant-icon-mail:before {
+    content: "\f134";
+}
+.pbmit-bexco-restaurant-icon-lemon:before {
+    content: "\f135";
+}
+.pbmit-bexco-restaurant-icon-icecream:before {
+    content: "\f136";
+}
+.pbmit-bexco-restaurant-icon-delivery-man:before {
+    content: "\f137";
+}
+.pbmit-bexco-restaurant-icon-tray:before {
+    content: "\f138";
+}
+.pbmit-bexco-restaurant-icon-waiter-2:before {
+    content: "\f139";
+}
+.pbmit-bexco-restaurant-icon-noodle:before {
+    content: "\f13a";
+}
+.pbmit-bexco-restaurant-icon-check:before {
+    content: "\f13b";
+}
+.pbmit-bexco-restaurant-icon-up-right-arrow:before {
+    content: "\f13c";
+}
+.pbmit-bexco-restaurant-icon-facebook-circular-logo:before {
+    content: "\f13d";
+}
+.pbmit-bexco-restaurant-icon-twitter:before {
+    content: "\f13e";
+}
+.pbmit-bexco-restaurant-icon-youtube:before {
+    content: "\f13f";
+}

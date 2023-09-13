@@ -1,0 +1,197 @@
+$flaticon_bexco-consulting-font: "flaticon_bexco-consulting";
+
+@font-face {
+    font-family: $flaticon_bexco-consulting-font;
+    src: url("./flaticon_bexco-consulting.ttf?ee5561b34778b260b372f9a50a6c1792") format("truetype"),
+url("./flaticon_bexco-consulting.woff?ee5561b34778b260b372f9a50a6c1792") format("woff"),
+url("./flaticon_bexco-consulting.woff2?ee5561b34778b260b372f9a50a6c1792") format("woff2"),
+url("./flaticon_bexco-consulting.eot?ee5561b34778b260b372f9a50a6c1792#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-consulting.svg?ee5561b34778b260b372f9a50a6c1792#flaticon_bexco-consulting") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_bexco-consulting !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_bexco-consulting-map: (
+    "evaluation": "\f101",
+    "ideas": "\f102",
+    "valuable": "\f103",
+    "partnership-handshake": "\f104",
+    "risk-management": "\f105",
+    "expert": "\f106",
+    "goal": "\f107",
+    "business-meeting": "\f108",
+    "question-and-answer": "\f109",
+    "customer-support": "\f10a",
+    "consultant": "\f10b",
+    "successful": "\f10c",
+    "marketing": "\f10d",
+    "help": "\f10e",
+    "financial-profit": "\f10f",
+    "advice": "\f110",
+    "idea": "\f111",
+    "safety": "\f112",
+    "consultant-1": "\f113",
+    "global": "\f114",
+    "decision-making": "\f115",
+    "consultancy": "\f116",
+    "customer-support-1": "\f117",
+    "video-call": "\f118",
+    "knowledge": "\f119",
+    "financial-consultant": "\f11a",
+    "advanced-training": "\f11b",
+    "strategy": "\f11c",
+    "diagnosis": "\f11d",
+    "expert-1": "\f11e",
+    "backlog": "\f11f",
+    "management": "\f120",
+    "handshake": "\f121",
+    "customer-service": "\f122",
+    "advertisig-agency": "\f123",
+    "profit": "\f124",
+    "outbound": "\f125",
+    "marketing-1": "\f126",
+    "inbound": "\f127",
+    "content": "\f128",
+    "user-generated-content": "\f129",
+    "content-management": "\f12a",
+    "up-right-arrow": "\f12b",
+);
+
+.flaticon-evaluation:before {
+    content: map-get($flaticon_bexco-consulting-map, "evaluation");
+}
+.flaticon-ideas:before {
+    content: map-get($flaticon_bexco-consulting-map, "ideas");
+}
+.flaticon-valuable:before {
+    content: map-get($flaticon_bexco-consulting-map, "valuable");
+}
+.flaticon-partnership-handshake:before {
+    content: map-get($flaticon_bexco-consulting-map, "partnership-handshake");
+}
+.flaticon-risk-management:before {
+    content: map-get($flaticon_bexco-consulting-map, "risk-management");
+}
+.flaticon-expert:before {
+    content: map-get($flaticon_bexco-consulting-map, "expert");
+}
+.flaticon-goal:before {
+    content: map-get($flaticon_bexco-consulting-map, "goal");
+}
+.flaticon-business-meeting:before {
+    content: map-get($flaticon_bexco-consulting-map, "business-meeting");
+}
+.flaticon-question-and-answer:before {
+    content: map-get($flaticon_bexco-consulting-map, "question-and-answer");
+}
+.flaticon-customer-support:before {
+    content: map-get($flaticon_bexco-consulting-map, "customer-support");
+}
+.flaticon-consultant:before {
+    content: map-get($flaticon_bexco-consulting-map, "consultant");
+}
+.flaticon-successful:before {
+    content: map-get($flaticon_bexco-consulting-map, "successful");
+}
+.flaticon-marketing:before {
+    content: map-get($flaticon_bexco-consulting-map, "marketing");
+}
+.flaticon-help:before {
+    content: map-get($flaticon_bexco-consulting-map, "help");
+}
+.flaticon-financial-profit:before {
+    content: map-get($flaticon_bexco-consulting-map, "financial-profit");
+}
+.flaticon-advice:before {
+    content: map-get($flaticon_bexco-consulting-map, "advice");
+}
+.flaticon-idea:before {
+    content: map-get($flaticon_bexco-consulting-map, "idea");
+}
+.flaticon-safety:before {
+    content: map-get($flaticon_bexco-consulting-map, "safety");
+}
+.flaticon-consultant-1:before {
+    content: map-get($flaticon_bexco-consulting-map, "consultant-1");
+}
+.flaticon-global:before {
+    content: map-get($flaticon_bexco-consulting-map, "global");
+}
+.flaticon-decision-making:before {
+    content: map-get($flaticon_bexco-consulting-map, "decision-making");
+}
+.flaticon-consultancy:before {
+    content: map-get($flaticon_bexco-consulting-map, "consultancy");
+}
+.flaticon-customer-support-1:before {
+    content: map-get($flaticon_bexco-consulting-map, "customer-support-1");
+}
+.flaticon-video-call:before {
+    content: map-get($flaticon_bexco-consulting-map, "video-call");
+}
+.flaticon-knowledge:before {
+    content: map-get($flaticon_bexco-consulting-map, "knowledge");
+}
+.flaticon-financial-consultant:before {
+    content: map-get($flaticon_bexco-consulting-map, "financial-consultant");
+}
+.flaticon-advanced-training:before {
+    content: map-get($flaticon_bexco-consulting-map, "advanced-training");
+}
+.flaticon-strategy:before {
+    content: map-get($flaticon_bexco-consulting-map, "strategy");
+}
+.flaticon-diagnosis:before {
+    content: map-get($flaticon_bexco-consulting-map, "diagnosis");
+}
+.flaticon-expert-1:before {
+    content: map-get($flaticon_bexco-consulting-map, "expert-1");
+}
+.flaticon-backlog:before {
+    content: map-get($flaticon_bexco-consulting-map, "backlog");
+}
+.flaticon-management:before {
+    content: map-get($flaticon_bexco-consulting-map, "management");
+}
+.flaticon-handshake:before {
+    content: map-get($flaticon_bexco-consulting-map, "handshake");
+}
+.flaticon-customer-service:before {
+    content: map-get($flaticon_bexco-consulting-map, "customer-service");
+}
+.flaticon-advertisig-agency:before {
+    content: map-get($flaticon_bexco-consulting-map, "advertisig-agency");
+}
+.flaticon-profit:before {
+    content: map-get($flaticon_bexco-consulting-map, "profit");
+}
+.flaticon-outbound:before {
+    content: map-get($flaticon_bexco-consulting-map, "outbound");
+}
+.flaticon-marketing-1:before {
+    content: map-get($flaticon_bexco-consulting-map, "marketing-1");
+}
+.flaticon-inbound:before {
+    content: map-get($flaticon_bexco-consulting-map, "inbound");
+}
+.flaticon-content:before {
+    content: map-get($flaticon_bexco-consulting-map, "content");
+}
+.flaticon-user-generated-content:before {
+    content: map-get($flaticon_bexco-consulting-map, "user-generated-content");
+}
+.flaticon-content-management:before {
+    content: map-get($flaticon_bexco-consulting-map, "content-management");
+}
+.flaticon-up-right-arrow:before {
+    content: map-get($flaticon_bexco-consulting-map, "up-right-arrow");
+}

@@ -1,0 +1,150 @@
+@font-face {
+	font-family: "flaticon_bexco-construction";
+	src: url("./flaticon_bexco-construction.ttf?05a6a67e371e00e1e3277518534d1345") format("truetype"),
+url("./flaticon_bexco-construction.woff?05a6a67e371e00e1e3277518534d1345") format("woff"),
+url("./flaticon_bexco-construction.woff2?05a6a67e371e00e1e3277518534d1345") format("woff2"),
+url("./flaticon_bexco-construction.eot?05a6a67e371e00e1e3277518534d1345#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-construction.svg?05a6a67e371e00e1e3277518534d1345#flaticon_bexco-construction") format("svg");
+}
+i[class^="flaticon-"]:before, i[class*=" pbmit-bexco-construction-icon-"]:before {
+	font-family: flaticon_bexco-construction !important;
+	font-style: normal;
+	font-weight: normal !important;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.pbmit-bexco-construction-icon-paint-brush:before {
+	content: "\f101";
+}
+.pbmit-bexco-construction-icon-paint-roller:before {
+	content: "\f102";
+}
+.pbmit-bexco-construction-icon-painter:before {
+	content: "\f103";
+}
+.pbmit-bexco-construction-icon-crane:before {
+	content: "\f104";
+}
+.pbmit-bexco-construction-icon-concrete-pump:before {
+	content: "\f105";
+}
+.pbmit-bexco-construction-icon-scissor-lift:before {
+	content: "\f106";
+}
+.pbmit-bexco-construction-icon-water-meter:before {
+	content: "\f107";
+}
+.pbmit-bexco-construction-icon-screwdriver:before {
+	content: "\f108";
+}
+.pbmit-bexco-construction-icon-circular-saw:before {
+	content: "\f109";
+}
+.pbmit-bexco-construction-icon-concrete-mixer:before {
+	content: "\f10a";
+}
+.pbmit-bexco-construction-icon-wheelbarrow:before {
+	content: "\f10b";
+}
+.pbmit-bexco-construction-icon-steamroller:before {
+	content: "\f10c";
+}
+.pbmit-bexco-construction-icon-loader:before {
+	content: "\f10d";
+}
+.pbmit-bexco-construction-icon-planning:before {
+	content: "\f10e";
+}
+.pbmit-bexco-construction-icon-excavator:before {
+	content: "\f10f";
+}
+.pbmit-bexco-construction-icon-forklift:before {
+	content: "\f110";
+}
+.pbmit-bexco-construction-icon-drill:before {
+	content: "\f111";
+}
+.pbmit-bexco-construction-icon-jackhammer:before {
+	content: "\f112";
+}
+.pbmit-bexco-construction-icon-fence:before {
+	content: "\f113";
+}
+.pbmit-bexco-construction-icon-constructor:before {
+	content: "\f114";
+}
+.pbmit-bexco-construction-icon-dump-truck:before {
+	content: "\f115";
+}
+.pbmit-bexco-construction-icon-pincer:before {
+	content: "\f116";
+}
+.pbmit-bexco-construction-icon-blueprint:before {
+	content: "\f117";
+}
+.pbmit-bexco-construction-icon-apron:before {
+	content: "\f118";
+}
+.pbmit-bexco-construction-icon-bulldozing:before {
+	content: "\f119";
+}
+.pbmit-bexco-construction-icon-color-palette:before {
+	content: "\f11a";
+}
+.pbmit-bexco-construction-icon-brush:before {
+	content: "\f11b";
+}
+.pbmit-bexco-construction-icon-hammer:before {
+	content: "\f11c";
+}
+.pbmit-bexco-construction-icon-fire-hydrant:before {
+	content: "\f11d";
+}
+.pbmit-bexco-construction-icon-hand-saw:before {
+	content: "\f11e";
+}
+.pbmit-bexco-construction-icon-helmet:before {
+	content: "\f11f";
+}
+.pbmit-bexco-construction-icon-house:before {
+	content: "\f120";
+}
+.pbmit-bexco-construction-icon-shovel:before {
+	content: "\f121";
+}
+.pbmit-bexco-construction-icon-pipeline:before {
+	content: "\f122";
+}
+.pbmit-bexco-construction-icon-measuring-tape:before {
+	content: "\f123";
+}
+.pbmit-bexco-construction-icon-warning-sign:before {
+	content: "\f124";
+}
+.pbmit-bexco-construction-icon-spirit-level:before {
+	content: "\f125";
+}
+.pbmit-bexco-construction-icon-telephone:before {
+	content: "\f126";
+}
+.pbmit-bexco-construction-icon-up-right-arrow:before {
+	content: "\f127";
+}
+.pbmit-bexco-construction-icon-down-arrow:before {
+	content: "\f128";
+}
+.pbmit-bexco-construction-icon-helmet-1:before {
+	content: "\f129";
+}
+.pbmit-bexco-construction-icon-telephone-1:before {
+	content: "\f12a";
+}
+.pbmit-bexco-construction-icon-pin:before {
+	content: "\f12b";
+}
+.pbmit-bexco-construction-icon-mail:before {
+	content: "\f12c";
+}

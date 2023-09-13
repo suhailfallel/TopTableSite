@@ -1,0 +1,111 @@
+@font-face {
+	font-family: "flaticon_bexco-architect";
+	src: url("../fonts/pbmit-bexco-architect-icon/flaticon_bexco-architect.ttf") format("truetype"),
+url("../fonts/pbmit-bexco-architect-icon/flaticon_bexco-architect.woff?25efc162af45c4b8d196b6a1790d03e1") format("woff"),
+url("../fonts/pbmit-bexco-architect-icon/flaticon_bexco-architect.woff2?25efc162af45c4b8d196b6a1790d03e1") format("woff2"),
+url("../fonts/pbmit-bexco-architect-icon/flaticon_bexco-architect.eot?25efc162af45c4b8d196b6a1790d03e1#iefix") format("embedded-opentype"),
+url("../fonts/pbmit-bexco-architect-icon/flaticon_bexco-architect.svg?25efc162af45c4b8d196b6a1790d03e1#flaticon_bexco-architect") format("svg");
+}
+i[class^="flaticon-"]:before, i[class*=" pbmit-bexco-architect-icon-"]:before {
+	font-family: flaticon_bexco-architect !important;
+	font-style: normal;
+	font-weight: normal !important;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.pbmit-bexco-architect-icon-architect:before {
+	content: "\f101";
+}
+.pbmit-bexco-architect-icon-architect-1:before {
+	content: "\f102";
+}
+.pbmit-bexco-architect-icon-architect-2:before {
+	content: "\f103";
+}
+.pbmit-bexco-architect-icon-architecture:before {
+	content: "\f104";
+}
+.pbmit-bexco-architect-icon-architect-3:before {
+	content: "\f105";
+}
+.pbmit-bexco-architect-icon-architect-4:before {
+	content: "\f106";
+}
+.pbmit-bexco-architect-icon-architect-5:before {
+	content: "\f107";
+}
+.pbmit-bexco-architect-icon-architect-6:before {
+	content: "\f108";
+}
+.pbmit-bexco-architect-icon-architecture-1:before {
+	content: "\f109";
+}
+.pbmit-bexco-architect-icon-architect-7:before {
+	content: "\f10a";
+}
+.pbmit-bexco-architect-icon-architect-8:before {
+	content: "\f10b";
+}
+.pbmit-bexco-architect-icon-architect-9:before {
+	content: "\f10c";
+}
+.pbmit-bexco-architect-icon-presentation:before {
+	content: "\f10d";
+}
+.pbmit-bexco-architect-icon-architect-10:before {
+	content: "\f10e";
+}
+.pbmit-bexco-architect-icon-architect-11:before {
+	content: "\f10f";
+}
+.pbmit-bexco-architect-icon-architect-12:before {
+	content: "\f110";
+}
+.pbmit-bexco-architect-icon-architect-13:before {
+	content: "\f111";
+}
+.pbmit-bexco-architect-icon-architect-14:before {
+	content: "\f112";
+}
+.pbmit-bexco-architect-icon-architect-15:before {
+	content: "\f113";
+}
+.pbmit-bexco-architect-icon-architect-16:before {
+	content: "\f114";
+}
+.pbmit-bexco-architect-icon-architect-17:before {
+	content: "\f115";
+}
+.pbmit-bexco-architect-icon-architect-18:before {
+	content: "\f116";
+}
+.pbmit-bexco-architect-icon-architecture-2:before {
+	content: "\f117";
+}
+.pbmit-bexco-architect-icon-architect-19:before {
+	content: "\f118";
+}
+.pbmit-bexco-architect-icon-architect-20:before {
+	content: "\f119";
+}
+.pbmit-bexco-architect-icon-quote:before {
+	content: "\f11a";
+}
+.pbmit-bexco-architect-icon-phone-call:before {
+	content: "\f11b";
+}
+.pbmit-bexco-architect-icon-emergency-call:before {
+	content: "\f11c";
+}
+.pbmit-bexco-architect-icon-open:before {
+	content: "\f11d";
+}
+.pbmit-bexco-architect-icon-placeholder:before {
+	content: "\f11e";
+}
+.pbmit-bexco-architect-icon-call:before {
+	content: "\f11f";
+}

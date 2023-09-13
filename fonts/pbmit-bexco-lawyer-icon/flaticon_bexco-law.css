@@ -1,0 +1,129 @@
+@font-face {
+	font-family: "flaticon_bexco-law";
+	src: url("./flaticon_bexco-law.ttf?9fc6769df75cc162153f780b6d942961") format("truetype"),
+url("./flaticon_bexco-law.woff?9fc6769df75cc162153f780b6d942961") format("woff"),
+url("./flaticon_bexco-law.woff2?9fc6769df75cc162153f780b6d942961") format("woff2"),
+url("./flaticon_bexco-law.eot?9fc6769df75cc162153f780b6d942961#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-law.svg?9fc6769df75cc162153f780b6d942961#flaticon_bexco-law") format("svg");
+}
+i[class^="flaticon-"]:before, i[class*="pbmit-bexco-lawyer-icon-"]:before {
+	font-family: flaticon_bexco-law !important;
+	font-style: normal;
+	font-weight: normal !important;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.pbmit-bexco-lawyer-icon-law:before {
+	content: "\f101";
+}
+.pbmit-bexco-lawyer-icon-legal:before {
+	content: "\f102";
+}
+.pbmit-bexco-lawyer-icon-quote:before {
+	content: "\f103";
+}
+.pbmit-bexco-lawyer-icon-document:before {
+	content: "\f104";
+}
+.pbmit-bexco-lawyer-icon-document-1:before {
+	content: "\f105";
+}
+.pbmit-bexco-lawyer-icon-legal-1:before {
+	content: "\f106";
+}
+.pbmit-bexco-lawyer-icon-auction:before {
+	content: "\f107";
+}
+.pbmit-bexco-lawyer-icon-legal-2:before {
+	content: "\f108";
+}
+.pbmit-bexco-lawyer-icon-global:before {
+	content: "\f109";
+}
+.pbmit-bexco-lawyer-icon-insurance:before {
+	content: "\f10a";
+}
+.pbmit-bexco-lawyer-icon-web:before {
+	content: "\f10b";
+}
+.pbmit-bexco-lawyer-icon-music:before {
+	content: "\f10c";
+}
+.pbmit-bexco-lawyer-icon-video:before {
+	content: "\f10d";
+}
+.pbmit-bexco-lawyer-icon-passport:before {
+	content: "\f10e";
+}
+.pbmit-bexco-lawyer-icon-photo:before {
+	content: "\f10f";
+}
+.pbmit-bexco-lawyer-icon-ink:before {
+	content: "\f110";
+}
+.pbmit-bexco-lawyer-icon-protect:before {
+	content: "\f111";
+}
+.pbmit-bexco-lawyer-icon-badge:before {
+	content: "\f112";
+}
+.pbmit-bexco-lawyer-icon-law-1:before {
+	content: "\f113";
+}
+.pbmit-bexco-lawyer-icon-legal-3:before {
+	content: "\f114";
+}
+.pbmit-bexco-lawyer-icon-legal-4:before {
+	content: "\f115";
+}
+.pbmit-bexco-lawyer-icon-pillar:before {
+	content: "\f116";
+}
+.pbmit-bexco-lawyer-icon-courthouse:before {
+	content: "\f117";
+}
+.pbmit-bexco-lawyer-icon-security:before {
+	content: "\f118";
+}
+.pbmit-bexco-lawyer-icon-copyright:before {
+	content: "\f119";
+}
+.pbmit-bexco-lawyer-icon-right-arrow:before {
+	content: "\f11a";
+}
+.pbmit-bexco-lawyer-icon-justice-scale:before {
+	content: "\f11b";
+}
+.pbmit-bexco-lawyer-icon-stars:before {
+	content: "\f11c";
+}
+.pbmit-bexco-lawyer-icon-balance-scale:before {
+	content: "\f11d";
+}
+.pbmit-bexco-lawyer-icon-file:before {
+	content: "\f11e";
+}
+.pbmit-bexco-lawyer-icon-court:before {
+	content: "\f11f";
+}
+.pbmit-bexco-lawyer-icon-dialogue:before {
+	content: "\f120";
+}
+.pbmit-bexco-lawyer-icon-quotations:before {
+	content: "\f121";
+}
+.pbmit-bexco-lawyer-icon-map:before {
+	content: "\f122";
+}
+.pbmit-bexco-lawyer-icon-time-management:before {
+	content: "\f123";
+}
+.pbmit-bexco-lawyer-icon-phone:before {
+	content: "\f124";
+}
+.pbmit-bexco-lawyer-icon-phone-call:before {
+	content: "\f125";
+}

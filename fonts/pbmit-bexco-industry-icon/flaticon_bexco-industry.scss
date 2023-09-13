@@ -1,0 +1,205 @@
+$flaticon_bexco-industry-font: "flaticon_bexco-industry";
+
+@font-face {
+    font-family: $flaticon_bexco-industry-font;
+    src: url("./flaticon_bexco-industry.ttf?bd776a3742f90d5ea31e28dd3ee19996") format("truetype"),
+url("./flaticon_bexco-industry.woff?bd776a3742f90d5ea31e28dd3ee19996") format("woff"),
+url("./flaticon_bexco-industry.woff2?bd776a3742f90d5ea31e28dd3ee19996") format("woff2"),
+url("./flaticon_bexco-industry.eot?bd776a3742f90d5ea31e28dd3ee19996#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-industry.svg?bd776a3742f90d5ea31e28dd3ee19996#flaticon_bexco-industry") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_bexco-industry !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_bexco-industry-map: (
+    "coal": "\f101",
+    "solar-panel": "\f102",
+    "excavator": "\f103",
+    "excavator-1": "\f104",
+    "drilling-rig": "\f105",
+    "cargo-ship": "\f106",
+    "electric-power": "\f107",
+    "mechanical-arm": "\f108",
+    "nuclear-plant": "\f109",
+    "clipboard": "\f10a",
+    "petroleum": "\f10b",
+    "factory": "\f10c",
+    "tanker-truck": "\f10d",
+    "turbine": "\f10e",
+    "pumpjack": "\f10f",
+    "conveyor": "\f110",
+    "valve": "\f111",
+    "gauge": "\f112",
+    "forklift": "\f113",
+    "crane": "\f114",
+    "safety": "\f115",
+    "benefits": "\f116",
+    "engineer": "\f117",
+    "engineer-1": "\f118",
+    "offshore-platform": "\f119",
+    "oil-industry": "\f11a",
+    "tower": "\f11b",
+    "factory-1": "\f11c",
+    "manufacturing": "\f11d",
+    "petrochemical": "\f11e",
+    "boiler": "\f11f",
+    "factory-2": "\f120",
+    "conveyor-1": "\f121",
+    "welder": "\f122",
+    "saw": "\f123",
+    "valve-1": "\f124",
+    "industry": "\f125",
+    "hand-drill": "\f126",
+    "time": "\f127",
+    "speech-bubble": "\f128",
+    "email-marketing": "\f129",
+    "next": "\f12a",
+    "place": "\f12b",
+    "phone-call-button": "\f12c",
+    "email": "\f12d",
+);
+
+.flaticon-coal:before {
+    content: map-get($flaticon_bexco-industry-map, "coal");
+}
+.flaticon-solar-panel:before {
+    content: map-get($flaticon_bexco-industry-map, "solar-panel");
+}
+.flaticon-excavator:before {
+    content: map-get($flaticon_bexco-industry-map, "excavator");
+}
+.flaticon-excavator-1:before {
+    content: map-get($flaticon_bexco-industry-map, "excavator-1");
+}
+.flaticon-drilling-rig:before {
+    content: map-get($flaticon_bexco-industry-map, "drilling-rig");
+}
+.flaticon-cargo-ship:before {
+    content: map-get($flaticon_bexco-industry-map, "cargo-ship");
+}
+.flaticon-electric-power:before {
+    content: map-get($flaticon_bexco-industry-map, "electric-power");
+}
+.flaticon-mechanical-arm:before {
+    content: map-get($flaticon_bexco-industry-map, "mechanical-arm");
+}
+.flaticon-nuclear-plant:before {
+    content: map-get($flaticon_bexco-industry-map, "nuclear-plant");
+}
+.flaticon-clipboard:before {
+    content: map-get($flaticon_bexco-industry-map, "clipboard");
+}
+.flaticon-petroleum:before {
+    content: map-get($flaticon_bexco-industry-map, "petroleum");
+}
+.flaticon-factory:before {
+    content: map-get($flaticon_bexco-industry-map, "factory");
+}
+.flaticon-tanker-truck:before {
+    content: map-get($flaticon_bexco-industry-map, "tanker-truck");
+}
+.flaticon-turbine:before {
+    content: map-get($flaticon_bexco-industry-map, "turbine");
+}
+.flaticon-pumpjack:before {
+    content: map-get($flaticon_bexco-industry-map, "pumpjack");
+}
+.flaticon-conveyor:before {
+    content: map-get($flaticon_bexco-industry-map, "conveyor");
+}
+.flaticon-valve:before {
+    content: map-get($flaticon_bexco-industry-map, "valve");
+}
+.flaticon-gauge:before {
+    content: map-get($flaticon_bexco-industry-map, "gauge");
+}
+.flaticon-forklift:before {
+    content: map-get($flaticon_bexco-industry-map, "forklift");
+}
+.flaticon-crane:before {
+    content: map-get($flaticon_bexco-industry-map, "crane");
+}
+.flaticon-safety:before {
+    content: map-get($flaticon_bexco-industry-map, "safety");
+}
+.flaticon-benefits:before {
+    content: map-get($flaticon_bexco-industry-map, "benefits");
+}
+.flaticon-engineer:before {
+    content: map-get($flaticon_bexco-industry-map, "engineer");
+}
+.flaticon-engineer-1:before {
+    content: map-get($flaticon_bexco-industry-map, "engineer-1");
+}
+.flaticon-offshore-platform:before {
+    content: map-get($flaticon_bexco-industry-map, "offshore-platform");
+}
+.flaticon-oil-industry:before {
+    content: map-get($flaticon_bexco-industry-map, "oil-industry");
+}
+.flaticon-tower:before {
+    content: map-get($flaticon_bexco-industry-map, "tower");
+}
+.flaticon-factory-1:before {
+    content: map-get($flaticon_bexco-industry-map, "factory-1");
+}
+.flaticon-manufacturing:before {
+    content: map-get($flaticon_bexco-industry-map, "manufacturing");
+}
+.flaticon-petrochemical:before {
+    content: map-get($flaticon_bexco-industry-map, "petrochemical");
+}
+.flaticon-boiler:before {
+    content: map-get($flaticon_bexco-industry-map, "boiler");
+}
+.flaticon-factory-2:before {
+    content: map-get($flaticon_bexco-industry-map, "factory-2");
+}
+.flaticon-conveyor-1:before {
+    content: map-get($flaticon_bexco-industry-map, "conveyor-1");
+}
+.flaticon-welder:before {
+    content: map-get($flaticon_bexco-industry-map, "welder");
+}
+.flaticon-saw:before {
+    content: map-get($flaticon_bexco-industry-map, "saw");
+}
+.flaticon-valve-1:before {
+    content: map-get($flaticon_bexco-industry-map, "valve-1");
+}
+.flaticon-industry:before {
+    content: map-get($flaticon_bexco-industry-map, "industry");
+}
+.flaticon-hand-drill:before {
+    content: map-get($flaticon_bexco-industry-map, "hand-drill");
+}
+.flaticon-time:before {
+    content: map-get($flaticon_bexco-industry-map, "time");
+}
+.flaticon-speech-bubble:before {
+    content: map-get($flaticon_bexco-industry-map, "speech-bubble");
+}
+.flaticon-email-marketing:before {
+    content: map-get($flaticon_bexco-industry-map, "email-marketing");
+}
+.flaticon-next:before {
+    content: map-get($flaticon_bexco-industry-map, "next");
+}
+.flaticon-place:before {
+    content: map-get($flaticon_bexco-industry-map, "place");
+}
+.flaticon-phone-call-button:before {
+    content: map-get($flaticon_bexco-industry-map, "phone-call-button");
+}
+.flaticon-email:before {
+    content: map-get($flaticon_bexco-industry-map, "email");
+}

@@ -1,0 +1,149 @@
+@font-face {
+    font-family: "flaticon_bexco-consulting";
+    src: url("../fonts/pbmit-bexco-consulting-icon/flaticon_bexco-consulting.ttf?ee5561b34778b260b372f9a50a6c1792") format("truetype"),
+url("../fonts/pbmit-bexco-consulting-icon/flaticon_bexco-consulting.woff?ee5561b34778b260b372f9a50a6c1792") format("woff"),
+url("../fonts/pbmit-bexco-consulting-icon/flaticon_bexco-consulting.woff2?ee5561b34778b260b372f9a50a6c1792") format("woff2"),
+url("../fonts/pbmit-bexco-consulting-icon/flaticon_bexco-consulting.eot?ee5561b34778b260b372f9a50a6c1792#iefix") format("embedded-opentype"),
+url("../fonts/pbmit-bexco-consulting-icon/flaticon_bexco-consulting.svg?ee5561b34778b260b372f9a50a6c1792#flaticon_bexco-consulting") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" pbmit-bexco-consulting-icon-"]:before {
+    font-family: flaticon_bexco-consulting !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pbmit-bexco-consulting-icon-evaluation:before {
+    content: "\f101";
+}
+.pbmit-bexco-consulting-icon-ideas:before {
+    content: "\f102";
+}
+.pbmit-bexco-consulting-icon-valuable:before {
+    content: "\f103";
+}
+.pbmit-bexco-consulting-icon-partnership-handshake:before {
+    content: "\f104";
+}
+.pbmit-bexco-consulting-icon-risk-management:before {
+    content: "\f105";
+}
+.pbmit-bexco-consulting-icon-expert:before {
+    content: "\f106";
+}
+.pbmit-bexco-consulting-icon-goal:before {
+    content: "\f107";
+}
+.pbmit-bexco-consulting-icon-business-meeting:before {
+    content: "\f108";
+}
+.pbmit-bexco-consulting-icon-question-and-answer:before {
+    content: "\f109";
+}
+.pbmit-bexco-consulting-icon-customer-support:before {
+    content: "\f10a";
+}
+.pbmit-bexco-consulting-icon-consultant:before {
+    content: "\f10b";
+}
+.pbmit-bexco-consulting-icon-successful:before {
+    content: "\f10c";
+}
+.pbmit-bexco-consulting-icon-marketing:before {
+    content: "\f10d";
+}
+.pbmit-bexco-consulting-icon-help:before {
+    content: "\f10e";
+}
+.pbmit-bexco-consulting-icon-financial-profit:before {
+    content: "\f10f";
+}
+.pbmit-bexco-consulting-icon-advice:before {
+    content: "\f110";
+}
+.pbmit-bexco-consulting-icon-idea:before {
+    content: "\f111";
+}
+.pbmit-bexco-consulting-icon-safety:before {
+    content: "\f112";
+}
+.pbmit-bexco-consulting-icon-consultant-1:before {
+    content: "\f113";
+}
+.pbmit-bexco-consulting-icon-global:before {
+    content: "\f114";
+}
+.pbmit-bexco-consulting-icon-decision-making:before {
+    content: "\f115";
+}
+.pbmit-bexco-consulting-icon-consultancy:before {
+    content: "\f116";
+}
+.pbmit-bexco-consulting-icon-customer-support-1:before {
+    content: "\f117";
+}
+.pbmit-bexco-consulting-icon-video-call:before {
+    content: "\f118";
+}
+.pbmit-bexco-consulting-icon-knowledge:before {
+    content: "\f119";
+}
+.pbmit-bexco-consulting-icon-financial-consultant:before {
+    content: "\f11a";
+}
+.pbmit-bexco-consulting-icon-advanced-training:before {
+    content: "\f11b";
+}
+.pbmit-bexco-consulting-icon-strategy:before {
+    content: "\f11c";
+}
+.pbmit-bexco-consulting-icon-diagnosis:before {
+    content: "\f11d";
+}
+.pbmit-bexco-consulting-icon-expert-1:before {
+    content: "\f11e";
+}
+.pbmit-bexco-consulting-icon-backlog:before {
+    content: "\f11f";
+}
+.pbmit-bexco-consulting-icon-management:before {
+    content: "\f120";
+}
+.pbmit-bexco-consulting-icon-handshake:before {
+    content: "\f121";
+}
+.pbmit-bexco-consulting-icon-customer-service:before {
+    content: "\f122";
+}
+.pbmit-bexco-consulting-icon-advertisig-agency:before {
+    content: "\f123";
+}
+.pbmit-bexco-consulting-icon-profit:before {
+    content: "\f124";
+}
+.pbmit-bexco-consulting-icon-outbound:before {
+    content: "\f125";
+}
+.pbmit-bexco-consulting-icon-marketing-1:before {
+    content: "\f126";
+}
+.pbmit-bexco-consulting-icon-inbound:before {
+    content: "\f127";
+}
+.pbmit-bexco-consulting-icon-content:before {
+    content: "\f128";
+}
+.pbmit-bexco-consulting-icon-user-generated-content:before {
+    content: "\f129";
+}
+.pbmit-bexco-consulting-icon-content-management:before {
+    content: "\f12a";
+}
+.pbmit-bexco-consulting-icon-up-right-arrow:before {
+    content: "\f12b";
+}

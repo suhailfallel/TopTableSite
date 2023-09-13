@@ -1,0 +1,155 @@
+@font-face {
+    font-family: "flaticon_bexco-industry";
+    src: url("../fonts/pbmit-bexco-industry-icon/flaticon_bexco-industry.ttf?bd776a3742f90d5ea31e28dd3ee19996") format("truetype"),
+url("../fonts/pbmit-bexco-industry-icon/flaticon_bexco-industry.woff?bd776a3742f90d5ea31e28dd3ee19996") format("woff"),
+url("../fonts/pbmit-bexco-industry-icon/flaticon_bexco-industry.woff2?bd776a3742f90d5ea31e28dd3ee19996") format("woff2"),
+url("../fonts/pbmit-bexco-industry-icon/flaticon_bexco-industry.eot?bd776a3742f90d5ea31e28dd3ee19996#iefix") format("embedded-opentype"),
+url("../fonts/pbmit-bexco-industry-icon/flaticon_bexco-industry.svg?bd776a3742f90d5ea31e28dd3ee19996#flaticon_bexco-industry") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" pbmit-bexco-industry-icon-"]:before {
+    font-family: flaticon_bexco-industry !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pbmit-bexco-industry-icon-coal:before {
+    content: "\f101";
+}
+.pbmit-bexco-industry-icon-solar-panel:before {
+    content: "\f102";
+}
+.pbmit-bexco-industry-icon-excavator:before {
+    content: "\f103";
+}
+.pbmit-bexco-industry-icon-excavator-1:before {
+    content: "\f104";
+}
+.pbmit-bexco-industry-icon-drilling-rig:before {
+    content: "\f105";
+}
+.pbmit-bexco-industry-icon-cargo-ship:before {
+    content: "\f106";
+}
+.pbmit-bexco-industry-icon-electric-power:before {
+    content: "\f107";
+}
+.pbmit-bexco-industry-icon-mechanical-arm:before {
+    content: "\f108";
+}
+.pbmit-bexco-industry-icon-nuclear-plant:before {
+    content: "\f109";
+}
+.pbmit-bexco-industry-icon-clipboard:before {
+    content: "\f10a";
+}
+.pbmit-bexco-industry-icon-petroleum:before {
+    content: "\f10b";
+}
+.pbmit-bexco-industry-icon-factory:before {
+    content: "\f10c";
+}
+.pbmit-bexco-industry-icon-tanker-truck:before {
+    content: "\f10d";
+}
+.pbmit-bexco-industry-icon-turbine:before {
+    content: "\f10e";
+}
+.pbmit-bexco-industry-icon-pumpjack:before {
+    content: "\f10f";
+}
+.pbmit-bexco-industry-icon-conveyor:before {
+    content: "\f110";
+}
+.pbmit-bexco-industry-icon-valve:before {
+    content: "\f111";
+}
+.pbmit-bexco-industry-icon-gauge:before {
+    content: "\f112";
+}
+.pbmit-bexco-industry-icon-forklift:before {
+    content: "\f113";
+}
+.pbmit-bexco-industry-icon-crane:before {
+    content: "\f114";
+}
+.pbmit-bexco-industry-icon-safety:before {
+    content: "\f115";
+}
+.pbmit-bexco-industry-icon-benefits:before {
+    content: "\f116";
+}
+.pbmit-bexco-industry-icon-engineer:before {
+    content: "\f117";
+}
+.pbmit-bexco-industry-icon-engineer-1:before {
+    content: "\f118";
+}
+.pbmit-bexco-industry-icon-offshore-platform:before {
+    content: "\f119";
+}
+.pbmit-bexco-industry-icon-oil-industry:before {
+    content: "\f11a";
+}
+.pbmit-bexco-industry-icon-tower:before {
+    content: "\f11b";
+}
+.pbmit-bexco-industry-icon-factory-1:before {
+    content: "\f11c";
+}
+.pbmit-bexco-industry-icon-manufacturing:before {
+    content: "\f11d";
+}
+.pbmit-bexco-industry-icon-petrochemical:before {
+    content: "\f11e";
+}
+.pbmit-bexco-industry-icon-boiler:before {
+    content: "\f11f";
+}
+.pbmit-bexco-industry-icon-factory-2:before {
+    content: "\f120";
+}
+.pbmit-bexco-industry-icon-conveyor-1:before {
+    content: "\f121";
+}
+.pbmit-bexco-industry-icon-welder:before {
+    content: "\f122";
+}
+.pbmit-bexco-industry-icon-saw:before {
+    content: "\f123";
+}
+.pbmit-bexco-industry-icon-valve-1:before {
+    content: "\f124";
+}
+.pbmit-bexco-industry-icon-industry:before {
+    content: "\f125";
+}
+.pbmit-bexco-industry-icon-hand-drill:before {
+    content: "\f126";
+}
+.pbmit-bexco-industry-icon-time:before {
+    content: "\f127";
+}
+.pbmit-bexco-industry-icon-speech-bubble:before {
+    content: "\f128";
+}
+.pbmit-bexco-industry-icon-email-marketing:before {
+    content: "\f129";
+}
+.pbmit-bexco-industry-icon-next:before {
+    content: "\f12a";
+}
+.pbmit-bexco-industry-icon-place:before {
+    content: "\f12b";
+}
+.pbmit-bexco-industry-icon-phone-call-button:before {
+    content: "\f12c";
+}
+.pbmit-bexco-industry-icon-email:before {
+    content: "\f12d";
+}

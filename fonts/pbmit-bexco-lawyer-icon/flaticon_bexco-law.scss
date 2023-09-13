@@ -1,0 +1,173 @@
+$flaticon_bexco-law-font: "flaticon_bexco-law";
+
+@font-face {
+    font-family: $flaticon_bexco-law-font;
+    src: url("./flaticon_bexco-law.ttf?9fc6769df75cc162153f780b6d942961") format("truetype"),
+url("./flaticon_bexco-law.woff?9fc6769df75cc162153f780b6d942961") format("woff"),
+url("./flaticon_bexco-law.woff2?9fc6769df75cc162153f780b6d942961") format("woff2"),
+url("./flaticon_bexco-law.eot?9fc6769df75cc162153f780b6d942961#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-law.svg?9fc6769df75cc162153f780b6d942961#flaticon_bexco-law") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_bexco-law !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_bexco-law-map: (
+    "law": "\f101",
+    "legal": "\f102",
+    "quote": "\f103",
+    "document": "\f104",
+    "document-1": "\f105",
+    "legal-1": "\f106",
+    "auction": "\f107",
+    "legal-2": "\f108",
+    "global": "\f109",
+    "insurance": "\f10a",
+    "web": "\f10b",
+    "music": "\f10c",
+    "video": "\f10d",
+    "passport": "\f10e",
+    "photo": "\f10f",
+    "ink": "\f110",
+    "protect": "\f111",
+    "badge": "\f112",
+    "law-1": "\f113",
+    "legal-3": "\f114",
+    "legal-4": "\f115",
+    "pillar": "\f116",
+    "courthouse": "\f117",
+    "security": "\f118",
+    "copyright": "\f119",
+    "right-arrow": "\f11a",
+    "justice-scale": "\f11b",
+    "stars": "\f11c",
+    "balance-scale": "\f11d",
+    "file": "\f11e",
+    "court": "\f11f",
+    "dialogue": "\f120",
+    "quotations": "\f121",
+    "map": "\f122",
+    "time-management": "\f123",
+    "phone": "\f124",
+    "phone-call": "\f125",
+);
+
+.flaticon-law:before {
+    content: map-get($flaticon_bexco-law-map, "law");
+}
+.flaticon-legal:before {
+    content: map-get($flaticon_bexco-law-map, "legal");
+}
+.flaticon-quote:before {
+    content: map-get($flaticon_bexco-law-map, "quote");
+}
+.flaticon-document:before {
+    content: map-get($flaticon_bexco-law-map, "document");
+}
+.flaticon-document-1:before {
+    content: map-get($flaticon_bexco-law-map, "document-1");
+}
+.flaticon-legal-1:before {
+    content: map-get($flaticon_bexco-law-map, "legal-1");
+}
+.flaticon-auction:before {
+    content: map-get($flaticon_bexco-law-map, "auction");
+}
+.flaticon-legal-2:before {
+    content: map-get($flaticon_bexco-law-map, "legal-2");
+}
+.flaticon-global:before {
+    content: map-get($flaticon_bexco-law-map, "global");
+}
+.flaticon-insurance:before {
+    content: map-get($flaticon_bexco-law-map, "insurance");
+}
+.flaticon-web:before {
+    content: map-get($flaticon_bexco-law-map, "web");
+}
+.flaticon-music:before {
+    content: map-get($flaticon_bexco-law-map, "music");
+}
+.flaticon-video:before {
+    content: map-get($flaticon_bexco-law-map, "video");
+}
+.flaticon-passport:before {
+    content: map-get($flaticon_bexco-law-map, "passport");
+}
+.flaticon-photo:before {
+    content: map-get($flaticon_bexco-law-map, "photo");
+}
+.flaticon-ink:before {
+    content: map-get($flaticon_bexco-law-map, "ink");
+}
+.flaticon-protect:before {
+    content: map-get($flaticon_bexco-law-map, "protect");
+}
+.flaticon-badge:before {
+    content: map-get($flaticon_bexco-law-map, "badge");
+}
+.flaticon-law-1:before {
+    content: map-get($flaticon_bexco-law-map, "law-1");
+}
+.flaticon-legal-3:before {
+    content: map-get($flaticon_bexco-law-map, "legal-3");
+}
+.flaticon-legal-4:before {
+    content: map-get($flaticon_bexco-law-map, "legal-4");
+}
+.flaticon-pillar:before {
+    content: map-get($flaticon_bexco-law-map, "pillar");
+}
+.flaticon-courthouse:before {
+    content: map-get($flaticon_bexco-law-map, "courthouse");
+}
+.flaticon-security:before {
+    content: map-get($flaticon_bexco-law-map, "security");
+}
+.flaticon-copyright:before {
+    content: map-get($flaticon_bexco-law-map, "copyright");
+}
+.flaticon-right-arrow:before {
+    content: map-get($flaticon_bexco-law-map, "right-arrow");
+}
+.flaticon-justice-scale:before {
+    content: map-get($flaticon_bexco-law-map, "justice-scale");
+}
+.flaticon-stars:before {
+    content: map-get($flaticon_bexco-law-map, "stars");
+}
+.flaticon-balance-scale:before {
+    content: map-get($flaticon_bexco-law-map, "balance-scale");
+}
+.flaticon-file:before {
+    content: map-get($flaticon_bexco-law-map, "file");
+}
+.flaticon-court:before {
+    content: map-get($flaticon_bexco-law-map, "court");
+}
+.flaticon-dialogue:before {
+    content: map-get($flaticon_bexco-law-map, "dialogue");
+}
+.flaticon-quotations:before {
+    content: map-get($flaticon_bexco-law-map, "quotations");
+}
+.flaticon-map:before {
+    content: map-get($flaticon_bexco-law-map, "map");
+}
+.flaticon-time-management:before {
+    content: map-get($flaticon_bexco-law-map, "time-management");
+}
+.flaticon-phone:before {
+    content: map-get($flaticon_bexco-law-map, "phone");
+}
+.flaticon-phone-call:before {
+    content: map-get($flaticon_bexco-law-map, "phone-call");
+}

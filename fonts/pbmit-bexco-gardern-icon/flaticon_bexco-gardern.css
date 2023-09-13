@@ -1,0 +1,288 @@
+@font-face {
+	font-family: "flaticon_bexco-gardern";
+	src: url("./flaticon_bexco-gardern.ttf?83d69df57f32194e7c45c5b8b8be343f") format("truetype"),
+url("./flaticon_bexco-gardern.woff?83d69df57f32194e7c45c5b8b8be343f") format("woff"),
+url("./flaticon_bexco-gardern.woff2?83d69df57f32194e7c45c5b8b8be343f") format("woff2"),
+url("./flaticon_bexco-gardern.eot?83d69df57f32194e7c45c5b8b8be343f#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-gardern.svg?83d69df57f32194e7c45c5b8b8be343f#flaticon_bexco-gardern") format("svg");
+}
+i[class^="flaticon-"]:before, i[class*="pbmit-bexco-gardern-icon-"]:before {
+	font-family: flaticon_bexco-gardern !important;
+	font-style: normal;
+	font-weight: normal !important;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.pbmit-bexco-gardern-icon-worm:before {
+	content: "\f101";
+}
+.pbmit-bexco-gardern-icon-garden:before {
+	content: "\f102";
+}
+.pbmit-bexco-gardern-icon-rake:before {
+	content: "\f103";
+}
+.pbmit-bexco-gardern-icon-germination:before {
+	content: "\f104";
+}
+.pbmit-bexco-gardern-icon-gardener:before {
+	content: "\f105";
+}
+.pbmit-bexco-gardern-icon-street-lamp:before {
+	content: "\f106";
+}
+.pbmit-bexco-gardern-icon-cactus:before {
+	content: "\f107";
+}
+.pbmit-bexco-gardern-icon-gardener-1:before {
+	content: "\f108";
+}
+.pbmit-bexco-gardern-icon-greenhouse:before {
+	content: "\f109";
+}
+.pbmit-bexco-gardern-icon-water-hose:before {
+	content: "\f10a";
+}
+.pbmit-bexco-gardern-icon-bench:before {
+	content: "\f10b";
+}
+.pbmit-bexco-gardern-icon-tulip:before {
+	content: "\f10c";
+}
+.pbmit-bexco-gardern-icon-pesticide:before {
+	content: "\f10d";
+}
+.pbmit-bexco-gardern-icon-fertilizer:before {
+	content: "\f10e";
+}
+.pbmit-bexco-gardern-icon-shears:before {
+	content: "\f10f";
+}
+.pbmit-bexco-gardern-icon-bee:before {
+	content: "\f110";
+}
+.pbmit-bexco-gardern-icon-flower:before {
+	content: "\f111";
+}
+.pbmit-bexco-gardern-icon-flower-1:before {
+	content: "\f112";
+}
+.pbmit-bexco-gardern-icon-flower-seed:before {
+	content: "\f113";
+}
+.pbmit-bexco-gardern-icon-fountain:before {
+	content: "\f114";
+}
+.pbmit-bexco-gardern-icon-gloves:before {
+	content: "\f115";
+}
+.pbmit-bexco-gardern-icon-grasshopper:before {
+	content: "\f116";
+}
+.pbmit-bexco-gardern-icon-harvest:before {
+	content: "\f117";
+}
+.pbmit-bexco-gardern-icon-rose:before {
+	content: "\f118";
+}
+.pbmit-bexco-gardern-icon-pruners:before {
+	content: "\f119";
+}
+.pbmit-bexco-gardern-icon-mushroom:before {
+	content: "\f11a";
+}
+.pbmit-bexco-gardern-icon-mower:before {
+	content: "\f11b";
+}
+.pbmit-bexco-gardern-icon-ladybug:before {
+	content: "\f11c";
+}
+.pbmit-bexco-gardern-icon-spray:before {
+	content: "\f11d";
+}
+.pbmit-bexco-gardern-icon-sprinkler:before {
+	content: "\f11e";
+}
+.pbmit-bexco-gardern-icon-sprout:before {
+	content: "\f11f";
+}
+.pbmit-bexco-gardern-icon-carrot:before {
+	content: "\f120";
+}
+.pbmit-bexco-gardern-icon-wheelbarrow:before {
+	content: "\f121";
+}
+.pbmit-bexco-gardern-icon-watering-can:before {
+	content: "\f122";
+}
+.pbmit-bexco-gardern-icon-tree:before {
+	content: "\f123";
+}
+.pbmit-bexco-gardern-icon-sunflower:before {
+	content: "\f124";
+}
+.pbmit-bexco-gardern-icon-fence:before {
+	content: "\f125";
+}
+.pbmit-bexco-gardern-icon-idea:before {
+	content: "\f126";
+}
+.pbmit-bexco-gardern-icon-sprout-1:before {
+	content: "\f127";
+}
+.pbmit-bexco-gardern-icon-trash:before {
+	content: "\f128";
+}
+.pbmit-bexco-gardern-icon-greenhouse-1:before {
+	content: "\f129";
+}
+.pbmit-bexco-gardern-icon-pesticide-1:before {
+	content: "\f12a";
+}
+.pbmit-bexco-gardern-icon-greenhouse-2:before {
+	content: "\f12b";
+}
+.pbmit-bexco-gardern-icon-sun:before {
+	content: "\f12c";
+}
+.pbmit-bexco-gardern-icon-planing:before {
+	content: "\f12d";
+}
+.pbmit-bexco-gardern-icon-paving:before {
+	content: "\f12e";
+}
+.pbmit-bexco-gardern-icon-brick-wall:before {
+	content: "\f12f";
+}
+.pbmit-bexco-gardern-icon-water-hose-1:before {
+	content: "\f130";
+}
+.pbmit-bexco-gardern-icon-planting:before {
+	content: "\f131";
+}
+.pbmit-bexco-gardern-icon-secateurs:before {
+	content: "\f132";
+}
+.pbmit-bexco-gardern-icon-plant:before {
+	content: "\f133";
+}
+.pbmit-bexco-gardern-icon-hedge:before {
+	content: "\f134";
+}
+.pbmit-bexco-gardern-icon-grass:before {
+	content: "\f135";
+}
+.pbmit-bexco-gardern-icon-watering-can-2:before {
+	content: "\f136";
+}
+.pbmit-bexco-gardern-icon-tree-1:before {
+	content: "\f137";
+}
+.pbmit-bexco-gardern-icon-potted-plant:before {
+	content: "\f138";
+}
+.pbmit-bexco-gardern-icon-archway:before {
+	content: "\f139";
+}
+.pbmit-bexco-gardern-icon-wheelbarrow-1:before {
+	content: "\f13a";
+}
+.pbmit-bexco-gardern-icon-wheelbarrow-2:before {
+	content: "\f13b";
+}
+.pbmit-bexco-gardern-icon-lawn-mower:before {
+	content: "\f13c";
+}
+.pbmit-bexco-gardern-icon-caddy:before {
+	content: "\f13d";
+}
+.pbmit-bexco-gardern-icon-plant-pot:before {
+	content: "\f13e";
+}
+.pbmit-bexco-gardern-icon-painting:before {
+	content: "\f13f";
+}
+.pbmit-bexco-gardern-icon-basket:before {
+	content: "\f140";
+}
+.pbmit-bexco-gardern-icon-seeds:before {
+	content: "\f141";
+}
+.pbmit-bexco-gardern-icon-pots:before {
+	content: "\f142";
+}
+.pbmit-bexco-gardern-icon-bench-1:before {
+	content: "\f143";
+}
+.pbmit-bexco-gardern-icon-plant-pot-1:before {
+	content: "\f144";
+}
+.pbmit-bexco-gardern-icon-greenhouse-3:before {
+	content: "\f145";
+}
+.pbmit-bexco-gardern-icon-trowel:before {
+	content: "\f146";
+}
+.pbmit-bexco-gardern-icon-quotation-mark:before {
+	content: "\f147";
+}
+.pbmit-bexco-gardern-icon-emergency-call:before {
+	content: "\f148";
+}
+.pbmit-bexco-gardern-icon-gardening:before {
+	content: "\f149";
+}
+.pbmit-bexco-gardern-icon-pruning-shears:before {
+	content: "\f14a";
+}
+.pbmit-bexco-gardern-icon-lawn-mower-1:before {
+	content: "\f14b";
+}
+.pbmit-bexco-gardern-icon-plant-2:before {
+	content: "\f14c";
+}
+.pbmit-bexco-gardern-icon-farmer:before {
+	content: "\f14d";
+}
+.pbmit-bexco-gardern-icon-gardening-tools:before {
+	content: "\f14e";
+}
+.pbmit-bexco-gardern-icon-rotation:before {
+	content: "\f14f";
+}
+.pbmit-bexco-gardern-icon-chainsaw:before {
+	content: "\f150";
+}
+.pbmit-bexco-gardern-icon-landscape:before {
+	content: "\f151";
+}
+.pbmit-bexco-gardern-icon-plants:before {
+	content: "\f152";
+}
+.pbmit-bexco-gardern-icon-watering-can-3:before {
+	content: "\f153";
+}
+.pbmit-bexco-gardern-icon-boundaries:before {
+	content: "\f154";
+}
+.pbmit-bexco-gardern-icon-call:before {
+	content: "\f155";
+}
+.pbmit-bexco-gardern-icon-right-arrow:before {
+	content: "\f156";
+}
+.pbmit-bexco-gardern-icon-check:before {
+	content: "\f157";
+}
+.pbmit-bexco-gardern-icon-quote:before {
+	content: "\f158";
+}
+.pbmit-bexco-gardern-icon-envelope:before {
+	content: "\f159";
+}
+.pbmit-bexco-gardern-icon-pin:before {
+	content: "\f15a";
+}

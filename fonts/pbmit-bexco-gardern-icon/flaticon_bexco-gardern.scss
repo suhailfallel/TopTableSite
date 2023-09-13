@@ -1,0 +1,385 @@
+$flaticon_bexco-gardern-font: "flaticon_bexco-gardern";
+
+@font-face {
+    font-family: $flaticon_bexco-gardern-font;
+    src: url("./flaticon_bexco-gardern.ttf?83d69df57f32194e7c45c5b8b8be343f") format("truetype"),
+url("./flaticon_bexco-gardern.woff?83d69df57f32194e7c45c5b8b8be343f") format("woff"),
+url("./flaticon_bexco-gardern.woff2?83d69df57f32194e7c45c5b8b8be343f") format("woff2"),
+url("./flaticon_bexco-gardern.eot?83d69df57f32194e7c45c5b8b8be343f#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-gardern.svg?83d69df57f32194e7c45c5b8b8be343f#flaticon_bexco-gardern") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_bexco-gardern !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_bexco-gardern-map: (
+    "worm": "\f101",
+    "garden": "\f102",
+    "rake": "\f103",
+    "germination": "\f104",
+    "gardener": "\f105",
+    "street-lamp": "\f106",
+    "cactus": "\f107",
+    "gardener-1": "\f108",
+    "greenhouse": "\f109",
+    "water-hose": "\f10a",
+    "bench": "\f10b",
+    "tulip": "\f10c",
+    "pesticide": "\f10d",
+    "fertilizer": "\f10e",
+    "shears": "\f10f",
+    "bee": "\f110",
+    "flower": "\f111",
+    "flower-1": "\f112",
+    "flower-seed": "\f113",
+    "fountain": "\f114",
+    "gloves": "\f115",
+    "grasshopper": "\f116",
+    "harvest": "\f117",
+    "rose": "\f118",
+    "pruners": "\f119",
+    "mushroom": "\f11a",
+    "mower": "\f11b",
+    "ladybug": "\f11c",
+    "spray": "\f11d",
+    "sprinkler": "\f11e",
+    "sprout": "\f11f",
+    "carrot": "\f120",
+    "wheelbarrow": "\f121",
+    "watering-can": "\f122",
+    "tree": "\f123",
+    "sunflower": "\f124",
+    "fence": "\f125",
+    "idea": "\f126",
+    "sprout-1": "\f127",
+    "trash": "\f128",
+    "greenhouse-1": "\f129",
+    "pesticide-1": "\f12a",
+    "greenhouse-2": "\f12b",
+    "sun": "\f12c",
+    "planing": "\f12d",
+    "paving": "\f12e",
+    "brick-wall": "\f12f",
+    "water-hose-1": "\f130",
+    "planting": "\f131",
+    "secateurs": "\f132",
+    "plant": "\f133",
+    "hedge": "\f134",
+    "grass": "\f135",
+    "watering-can-2": "\f136",
+    "tree-1": "\f137",
+    "potted-plant": "\f138",
+    "archway": "\f139",
+    "wheelbarrow-1": "\f13a",
+    "wheelbarrow-2": "\f13b",
+    "lawn-mower": "\f13c",
+    "caddy": "\f13d",
+    "plant-pot": "\f13e",
+    "painting": "\f13f",
+    "basket": "\f140",
+    "seeds": "\f141",
+    "pots": "\f142",
+    "bench-1": "\f143",
+    "plant-pot-1": "\f144",
+    "greenhouse-3": "\f145",
+    "trowel": "\f146",
+    "quotation-mark": "\f147",
+    "emergency-call": "\f148",
+    "gardening": "\f149",
+    "pruning-shears": "\f14a",
+    "lawn-mower-1": "\f14b",
+    "plant-2": "\f14c",
+    "farmer": "\f14d",
+    "gardening-tools": "\f14e",
+    "rotation": "\f14f",
+    "chainsaw": "\f150",
+    "landscape": "\f151",
+    "plants": "\f152",
+    "watering-can-3": "\f153",
+    "boundaries": "\f154",
+    "call": "\f155",
+    "right-arrow": "\f156",
+    "check": "\f157",
+    "quote": "\f158",
+    "envelope": "\f159",
+    "pin": "\f15a",
+);
+
+.flaticon-worm:before {
+    content: map-get($flaticon_bexco-gardern-map, "worm");
+}
+.flaticon-garden:before {
+    content: map-get($flaticon_bexco-gardern-map, "garden");
+}
+.flaticon-rake:before {
+    content: map-get($flaticon_bexco-gardern-map, "rake");
+}
+.flaticon-germination:before {
+    content: map-get($flaticon_bexco-gardern-map, "germination");
+}
+.flaticon-gardener:before {
+    content: map-get($flaticon_bexco-gardern-map, "gardener");
+}
+.flaticon-street-lamp:before {
+    content: map-get($flaticon_bexco-gardern-map, "street-lamp");
+}
+.flaticon-cactus:before {
+    content: map-get($flaticon_bexco-gardern-map, "cactus");
+}
+.flaticon-gardener-1:before {
+    content: map-get($flaticon_bexco-gardern-map, "gardener-1");
+}
+.flaticon-greenhouse:before {
+    content: map-get($flaticon_bexco-gardern-map, "greenhouse");
+}
+.flaticon-water-hose:before {
+    content: map-get($flaticon_bexco-gardern-map, "water-hose");
+}
+.flaticon-bench:before {
+    content: map-get($flaticon_bexco-gardern-map, "bench");
+}
+.flaticon-tulip:before {
+    content: map-get($flaticon_bexco-gardern-map, "tulip");
+}
+.flaticon-pesticide:before {
+    content: map-get($flaticon_bexco-gardern-map, "pesticide");
+}
+.flaticon-fertilizer:before {
+    content: map-get($flaticon_bexco-gardern-map, "fertilizer");
+}
+.flaticon-shears:before {
+    content: map-get($flaticon_bexco-gardern-map, "shears");
+}
+.flaticon-bee:before {
+    content: map-get($flaticon_bexco-gardern-map, "bee");
+}
+.flaticon-flower:before {
+    content: map-get($flaticon_bexco-gardern-map, "flower");
+}
+.flaticon-flower-1:before {
+    content: map-get($flaticon_bexco-gardern-map, "flower-1");
+}
+.flaticon-flower-seed:before {
+    content: map-get($flaticon_bexco-gardern-map, "flower-seed");
+}
+.flaticon-fountain:before {
+    content: map-get($flaticon_bexco-gardern-map, "fountain");
+}
+.flaticon-gloves:before {
+    content: map-get($flaticon_bexco-gardern-map, "gloves");
+}
+.flaticon-grasshopper:before {
+    content: map-get($flaticon_bexco-gardern-map, "grasshopper");
+}
+.flaticon-harvest:before {
+    content: map-get($flaticon_bexco-gardern-map, "harvest");
+}
+.flaticon-rose:before {
+    content: map-get($flaticon_bexco-gardern-map, "rose");
+}
+.flaticon-pruners:before {
+    content: map-get($flaticon_bexco-gardern-map, "pruners");
+}
+.flaticon-mushroom:before {
+    content: map-get($flaticon_bexco-gardern-map, "mushroom");
+}
+.flaticon-mower:before {
+    content: map-get($flaticon_bexco-gardern-map, "mower");
+}
+.flaticon-ladybug:before {
+    content: map-get($flaticon_bexco-gardern-map, "ladybug");
+}
+.flaticon-spray:before {
+    content: map-get($flaticon_bexco-gardern-map, "spray");
+}
+.flaticon-sprinkler:before {
+    content: map-get($flaticon_bexco-gardern-map, "sprinkler");
+}
+.flaticon-sprout:before {
+    content: map-get($flaticon_bexco-gardern-map, "sprout");
+}
+.flaticon-carrot:before {
+    content: map-get($flaticon_bexco-gardern-map, "carrot");
+}
+.flaticon-wheelbarrow:before {
+    content: map-get($flaticon_bexco-gardern-map, "wheelbarrow");
+}
+.flaticon-watering-can:before {
+    content: map-get($flaticon_bexco-gardern-map, "watering-can");
+}
+.flaticon-tree:before {
+    content: map-get($flaticon_bexco-gardern-map, "tree");
+}
+.flaticon-sunflower:before {
+    content: map-get($flaticon_bexco-gardern-map, "sunflower");
+}
+.flaticon-fence:before {
+    content: map-get($flaticon_bexco-gardern-map, "fence");
+}
+.flaticon-idea:before {
+    content: map-get($flaticon_bexco-gardern-map, "idea");
+}
+.flaticon-sprout-1:before {
+    content: map-get($flaticon_bexco-gardern-map, "sprout-1");
+}
+.flaticon-trash:before {
+    content: map-get($flaticon_bexco-gardern-map, "trash");
+}
+.flaticon-greenhouse-1:before {
+    content: map-get($flaticon_bexco-gardern-map, "greenhouse-1");
+}
+.flaticon-pesticide-1:before {
+    content: map-get($flaticon_bexco-gardern-map, "pesticide-1");
+}
+.flaticon-greenhouse-2:before {
+    content: map-get($flaticon_bexco-gardern-map, "greenhouse-2");
+}
+.flaticon-sun:before {
+    content: map-get($flaticon_bexco-gardern-map, "sun");
+}
+.flaticon-planing:before {
+    content: map-get($flaticon_bexco-gardern-map, "planing");
+}
+.flaticon-paving:before {
+    content: map-get($flaticon_bexco-gardern-map, "paving");
+}
+.flaticon-brick-wall:before {
+    content: map-get($flaticon_bexco-gardern-map, "brick-wall");
+}
+.flaticon-water-hose-1:before {
+    content: map-get($flaticon_bexco-gardern-map, "water-hose-1");
+}
+.flaticon-planting:before {
+    content: map-get($flaticon_bexco-gardern-map, "planting");
+}
+.flaticon-secateurs:before {
+    content: map-get($flaticon_bexco-gardern-map, "secateurs");
+}
+.flaticon-plant:before {
+    content: map-get($flaticon_bexco-gardern-map, "plant");
+}
+.flaticon-hedge:before {
+    content: map-get($flaticon_bexco-gardern-map, "hedge");
+}
+.flaticon-grass:before {
+    content: map-get($flaticon_bexco-gardern-map, "grass");
+}
+.flaticon-watering-can-2:before {
+    content: map-get($flaticon_bexco-gardern-map, "watering-can-2");
+}
+.flaticon-tree-1:before {
+    content: map-get($flaticon_bexco-gardern-map, "tree-1");
+}
+.flaticon-potted-plant:before {
+    content: map-get($flaticon_bexco-gardern-map, "potted-plant");
+}
+.flaticon-archway:before {
+    content: map-get($flaticon_bexco-gardern-map, "archway");
+}
+.flaticon-wheelbarrow-1:before {
+    content: map-get($flaticon_bexco-gardern-map, "wheelbarrow-1");
+}
+.flaticon-wheelbarrow-2:before {
+    content: map-get($flaticon_bexco-gardern-map, "wheelbarrow-2");
+}
+.flaticon-lawn-mower:before {
+    content: map-get($flaticon_bexco-gardern-map, "lawn-mower");
+}
+.flaticon-caddy:before {
+    content: map-get($flaticon_bexco-gardern-map, "caddy");
+}
+.flaticon-plant-pot:before {
+    content: map-get($flaticon_bexco-gardern-map, "plant-pot");
+}
+.flaticon-painting:before {
+    content: map-get($flaticon_bexco-gardern-map, "painting");
+}
+.flaticon-basket:before {
+    content: map-get($flaticon_bexco-gardern-map, "basket");
+}
+.flaticon-seeds:before {
+    content: map-get($flaticon_bexco-gardern-map, "seeds");
+}
+.flaticon-pots:before {
+    content: map-get($flaticon_bexco-gardern-map, "pots");
+}
+.flaticon-bench-1:before {
+    content: map-get($flaticon_bexco-gardern-map, "bench-1");
+}
+.flaticon-plant-pot-1:before {
+    content: map-get($flaticon_bexco-gardern-map, "plant-pot-1");
+}
+.flaticon-greenhouse-3:before {
+    content: map-get($flaticon_bexco-gardern-map, "greenhouse-3");
+}
+.flaticon-trowel:before {
+    content: map-get($flaticon_bexco-gardern-map, "trowel");
+}
+.flaticon-quotation-mark:before {
+    content: map-get($flaticon_bexco-gardern-map, "quotation-mark");
+}
+.flaticon-emergency-call:before {
+    content: map-get($flaticon_bexco-gardern-map, "emergency-call");
+}
+.flaticon-gardening:before {
+    content: map-get($flaticon_bexco-gardern-map, "gardening");
+}
+.flaticon-pruning-shears:before {
+    content: map-get($flaticon_bexco-gardern-map, "pruning-shears");
+}
+.flaticon-lawn-mower-1:before {
+    content: map-get($flaticon_bexco-gardern-map, "lawn-mower-1");
+}
+.flaticon-plant-2:before {
+    content: map-get($flaticon_bexco-gardern-map, "plant-2");
+}
+.flaticon-farmer:before {
+    content: map-get($flaticon_bexco-gardern-map, "farmer");
+}
+.flaticon-gardening-tools:before {
+    content: map-get($flaticon_bexco-gardern-map, "gardening-tools");
+}
+.flaticon-rotation:before {
+    content: map-get($flaticon_bexco-gardern-map, "rotation");
+}
+.flaticon-chainsaw:before {
+    content: map-get($flaticon_bexco-gardern-map, "chainsaw");
+}
+.flaticon-landscape:before {
+    content: map-get($flaticon_bexco-gardern-map, "landscape");
+}
+.flaticon-plants:before {
+    content: map-get($flaticon_bexco-gardern-map, "plants");
+}
+.flaticon-watering-can-3:before {
+    content: map-get($flaticon_bexco-gardern-map, "watering-can-3");
+}
+.flaticon-boundaries:before {
+    content: map-get($flaticon_bexco-gardern-map, "boundaries");
+}
+.flaticon-call:before {
+    content: map-get($flaticon_bexco-gardern-map, "call");
+}
+.flaticon-right-arrow:before {
+    content: map-get($flaticon_bexco-gardern-map, "right-arrow");
+}
+.flaticon-check:before {
+    content: map-get($flaticon_bexco-gardern-map, "check");
+}
+.flaticon-quote:before {
+    content: map-get($flaticon_bexco-gardern-map, "quote");
+}
+.flaticon-envelope:before {
+    content: map-get($flaticon_bexco-gardern-map, "envelope");
+}
+.flaticon-pin:before {
+    content: map-get($flaticon_bexco-gardern-map, "pin");
+}

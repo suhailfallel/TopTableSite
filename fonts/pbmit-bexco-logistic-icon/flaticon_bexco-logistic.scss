@@ -1,0 +1,185 @@
+$flaticon_bexco-logistic-font: "flaticon_bexco-logistic";
+
+@font-face {
+    font-family: $flaticon_bexco-logistic-font;
+    src: url("./flaticon_bexco-logistic.ttf?3196a26a4d1b88d5c995400a60e6de15") format("truetype"),
+url("./flaticon_bexco-logistic.woff?3196a26a4d1b88d5c995400a60e6de15") format("woff"),
+url("./flaticon_bexco-logistic.woff2?3196a26a4d1b88d5c995400a60e6de15") format("woff2"),
+url("./flaticon_bexco-logistic.eot?3196a26a4d1b88d5c995400a60e6de15#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-logistic.svg?3196a26a4d1b88d5c995400a60e6de15#flaticon_bexco-logistic") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_bexco-logistic !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_bexco-logistic-map: (
+    "delivery-box": "\f101",
+    "cargo-boat": "\f102",
+    "delivery-truck": "\f103",
+    "express": "\f104",
+    "delivery-man": "\f105",
+    "delivery": "\f106",
+    "delivery-truck-1": "\f107",
+    "delivery-1": "\f108",
+    "delivery-box-1": "\f109",
+    "box": "\f10a",
+    "delivery-2": "\f10b",
+    "container": "\f10c",
+    "hook": "\f10d",
+    "delivery-box-2": "\f10e",
+    "delivery-box-3": "\f10f",
+    "air-transport": "\f110",
+    "delivery-man-1": "\f111",
+    "logistics-delivery": "\f112",
+    "delivery-3": "\f113",
+    "crane": "\f114",
+    "train": "\f115",
+    "airplane": "\f116",
+    "airplane-1": "\f117",
+    "right-arrow": "\f118",
+    "parcel": "\f119",
+    "delivery-4": "\f11a",
+    "worldwide": "\f11b",
+    "best-price": "\f11c",
+    "warehouse": "\f11d",
+    "delivery-time": "\f11e",
+    "logistic": "\f11f",
+    "secure": "\f120",
+    "time": "\f121",
+    "boxes": "\f122",
+    "forklift": "\f123",
+    "drone-delivery": "\f124",
+    "truck-ultrathin-vehicle": "\f125",
+    "forklift-1": "\f126",
+    "parcel-1": "\f127",
+    "trolley": "\f128",
+);
+
+.flaticon-delivery-box:before {
+    content: map-get($flaticon_bexco-logistic-map, "delivery-box");
+}
+.flaticon-cargo-boat:before {
+    content: map-get($flaticon_bexco-logistic-map, "cargo-boat");
+}
+.flaticon-delivery-truck:before {
+    content: map-get($flaticon_bexco-logistic-map, "delivery-truck");
+}
+.flaticon-express:before {
+    content: map-get($flaticon_bexco-logistic-map, "express");
+}
+.flaticon-delivery-man:before {
+    content: map-get($flaticon_bexco-logistic-map, "delivery-man");
+}
+.flaticon-delivery:before {
+    content: map-get($flaticon_bexco-logistic-map, "delivery");
+}
+.flaticon-delivery-truck-1:before {
+    content: map-get($flaticon_bexco-logistic-map, "delivery-truck-1");
+}
+.flaticon-delivery-1:before {
+    content: map-get($flaticon_bexco-logistic-map, "delivery-1");
+}
+.flaticon-delivery-box-1:before {
+    content: map-get($flaticon_bexco-logistic-map, "delivery-box-1");
+}
+.flaticon-box:before {
+    content: map-get($flaticon_bexco-logistic-map, "box");
+}
+.flaticon-delivery-2:before {
+    content: map-get($flaticon_bexco-logistic-map, "delivery-2");
+}
+.flaticon-container:before {
+    content: map-get($flaticon_bexco-logistic-map, "container");
+}
+.flaticon-hook:before {
+    content: map-get($flaticon_bexco-logistic-map, "hook");
+}
+.flaticon-delivery-box-2:before {
+    content: map-get($flaticon_bexco-logistic-map, "delivery-box-2");
+}
+.flaticon-delivery-box-3:before {
+    content: map-get($flaticon_bexco-logistic-map, "delivery-box-3");
+}
+.flaticon-air-transport:before {
+    content: map-get($flaticon_bexco-logistic-map, "air-transport");
+}
+.flaticon-delivery-man-1:before {
+    content: map-get($flaticon_bexco-logistic-map, "delivery-man-1");
+}
+.flaticon-logistics-delivery:before {
+    content: map-get($flaticon_bexco-logistic-map, "logistics-delivery");
+}
+.flaticon-delivery-3:before {
+    content: map-get($flaticon_bexco-logistic-map, "delivery-3");
+}
+.flaticon-crane:before {
+    content: map-get($flaticon_bexco-logistic-map, "crane");
+}
+.flaticon-train:before {
+    content: map-get($flaticon_bexco-logistic-map, "train");
+}
+.flaticon-airplane:before {
+    content: map-get($flaticon_bexco-logistic-map, "airplane");
+}
+.flaticon-airplane-1:before {
+    content: map-get($flaticon_bexco-logistic-map, "airplane-1");
+}
+.flaticon-right-arrow:before {
+    content: map-get($flaticon_bexco-logistic-map, "right-arrow");
+}
+.flaticon-parcel:before {
+    content: map-get($flaticon_bexco-logistic-map, "parcel");
+}
+.flaticon-delivery-4:before {
+    content: map-get($flaticon_bexco-logistic-map, "delivery-4");
+}
+.flaticon-worldwide:before {
+    content: map-get($flaticon_bexco-logistic-map, "worldwide");
+}
+.flaticon-best-price:before {
+    content: map-get($flaticon_bexco-logistic-map, "best-price");
+}
+.flaticon-warehouse:before {
+    content: map-get($flaticon_bexco-logistic-map, "warehouse");
+}
+.flaticon-delivery-time:before {
+    content: map-get($flaticon_bexco-logistic-map, "delivery-time");
+}
+.flaticon-logistic:before {
+    content: map-get($flaticon_bexco-logistic-map, "logistic");
+}
+.flaticon-secure:before {
+    content: map-get($flaticon_bexco-logistic-map, "secure");
+}
+.flaticon-time:before {
+    content: map-get($flaticon_bexco-logistic-map, "time");
+}
+.flaticon-boxes:before {
+    content: map-get($flaticon_bexco-logistic-map, "boxes");
+}
+.flaticon-forklift:before {
+    content: map-get($flaticon_bexco-logistic-map, "forklift");
+}
+.flaticon-drone-delivery:before {
+    content: map-get($flaticon_bexco-logistic-map, "drone-delivery");
+}
+.flaticon-truck-ultrathin-vehicle:before {
+    content: map-get($flaticon_bexco-logistic-map, "truck-ultrathin-vehicle");
+}
+.flaticon-forklift-1:before {
+    content: map-get($flaticon_bexco-logistic-map, "forklift-1");
+}
+.flaticon-parcel-1:before {
+    content: map-get($flaticon_bexco-logistic-map, "parcel-1");
+}
+.flaticon-trolley:before {
+    content: map-get($flaticon_bexco-logistic-map, "trolley");
+}

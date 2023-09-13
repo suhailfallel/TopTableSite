@@ -1,0 +1,221 @@
+$flaticon_bexco-medical-font: "flaticon_bexco-medical";
+
+@font-face {
+    font-family: $flaticon_bexco-medical-font;
+    src: url("../fonts/pbmit-bexco-medical-icon/flaticon_bexco-medical.ttf?49ebf1e0557e8ab6125402638107b8e5") format("truetype"),
+url("../fonts/pbmit-bexco-medical-icon/flaticon_bexco-medical.woff?49ebf1e0557e8ab6125402638107b8e5") format("woff"),
+url("../fonts/pbmit-bexco-medical-icon/flaticon_bexco-medical.woff2?49ebf1e0557e8ab6125402638107b8e5") format("woff2"),
+url("../fonts/pbmit-bexco-medical-icon/flaticon_bexco-medical.eot?49ebf1e0557e8ab6125402638107b8e5#iefix") format("embedded-opentype"),
+url("../fonts/pbmit-bexco-medical-icon/flaticon_bexco-medical.svg?49ebf1e0557e8ab6125402638107b8e5#flaticon_bexco-medical") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_bexco-medical !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_bexco-medical-map: (
+    "nurse": "\f101",
+    "rubber-gloves": "\f102",
+    "scalpel": "\f103",
+    "erlenmeyer": "\f104",
+    "caduceus": "\f105",
+    "bone": "\f106",
+    "health-insurance": "\f107",
+    "bed": "\f108",
+    "bill": "\f109",
+    "diabetes-test": "\f10a",
+    "lung": "\f10b",
+    "infusion": "\f10c",
+    "calendar": "\f10d",
+    "book": "\f10e",
+    "injection": "\f10f",
+    "ekg": "\f110",
+    "medicine": "\f111",
+    "tooth": "\f112",
+    "ambulance": "\f113",
+    "mortar": "\f114",
+    "hospital": "\f115",
+    "doctor": "\f116",
+    "blood-bag": "\f117",
+    "eye": "\f118",
+    "cardiogram": "\f119",
+    "dropper": "\f11a",
+    "ear": "\f11b",
+    "bandage": "\f11c",
+    "flask": "\f11d",
+    "folder": "\f11e",
+    "stethoscope": "\f11f",
+    "scissors": "\f120",
+    "plaster": "\f121",
+    "microscope": "\f122",
+    "medical-kit": "\f123",
+    "hammer": "\f124",
+    "telephone": "\f125",
+    "test-tube": "\f126",
+    "thermometer": "\f127",
+    "weight-scale": "\f128",
+    "blood": "\f129",
+    "breast-cancer": "\f12a",
+    "medical": "\f12b",
+    "emergency-call": "\f12c",
+    "ambulance-1": "\f12d",
+    "doctor-1": "\f12e",
+    "appointment": "\f12f",
+    "heart": "\f130",
+    "arrow-down": "\f131",
+);
+
+.flaticon-nurse:before {
+    content: map-get($flaticon_bexco-medical-map, "nurse");
+}
+.flaticon-rubber-gloves:before {
+    content: map-get($flaticon_bexco-medical-map, "rubber-gloves");
+}
+.flaticon-scalpel:before {
+    content: map-get($flaticon_bexco-medical-map, "scalpel");
+}
+.flaticon-erlenmeyer:before {
+    content: map-get($flaticon_bexco-medical-map, "erlenmeyer");
+}
+.flaticon-caduceus:before {
+    content: map-get($flaticon_bexco-medical-map, "caduceus");
+}
+.flaticon-bone:before {
+    content: map-get($flaticon_bexco-medical-map, "bone");
+}
+.flaticon-health-insurance:before {
+    content: map-get($flaticon_bexco-medical-map, "health-insurance");
+}
+.flaticon-bed:before {
+    content: map-get($flaticon_bexco-medical-map, "bed");
+}
+.flaticon-bill:before {
+    content: map-get($flaticon_bexco-medical-map, "bill");
+}
+.flaticon-diabetes-test:before {
+    content: map-get($flaticon_bexco-medical-map, "diabetes-test");
+}
+.flaticon-lung:before {
+    content: map-get($flaticon_bexco-medical-map, "lung");
+}
+.flaticon-infusion:before {
+    content: map-get($flaticon_bexco-medical-map, "infusion");
+}
+.flaticon-calendar:before {
+    content: map-get($flaticon_bexco-medical-map, "calendar");
+}
+.flaticon-book:before {
+    content: map-get($flaticon_bexco-medical-map, "book");
+}
+.flaticon-injection:before {
+    content: map-get($flaticon_bexco-medical-map, "injection");
+}
+.flaticon-ekg:before {
+    content: map-get($flaticon_bexco-medical-map, "ekg");
+}
+.flaticon-medicine:before {
+    content: map-get($flaticon_bexco-medical-map, "medicine");
+}
+.flaticon-tooth:before {
+    content: map-get($flaticon_bexco-medical-map, "tooth");
+}
+.flaticon-ambulance:before {
+    content: map-get($flaticon_bexco-medical-map, "ambulance");
+}
+.flaticon-mortar:before {
+    content: map-get($flaticon_bexco-medical-map, "mortar");
+}
+.flaticon-hospital:before {
+    content: map-get($flaticon_bexco-medical-map, "hospital");
+}
+.flaticon-doctor:before {
+    content: map-get($flaticon_bexco-medical-map, "doctor");
+}
+.flaticon-blood-bag:before {
+    content: map-get($flaticon_bexco-medical-map, "blood-bag");
+}
+.flaticon-eye:before {
+    content: map-get($flaticon_bexco-medical-map, "eye");
+}
+.flaticon-cardiogram:before {
+    content: map-get($flaticon_bexco-medical-map, "cardiogram");
+}
+.flaticon-dropper:before {
+    content: map-get($flaticon_bexco-medical-map, "dropper");
+}
+.flaticon-ear:before {
+    content: map-get($flaticon_bexco-medical-map, "ear");
+}
+.flaticon-bandage:before {
+    content: map-get($flaticon_bexco-medical-map, "bandage");
+}
+.flaticon-flask:before {
+    content: map-get($flaticon_bexco-medical-map, "flask");
+}
+.flaticon-folder:before {
+    content: map-get($flaticon_bexco-medical-map, "folder");
+}
+.flaticon-stethoscope:before {
+    content: map-get($flaticon_bexco-medical-map, "stethoscope");
+}
+.flaticon-scissors:before {
+    content: map-get($flaticon_bexco-medical-map, "scissors");
+}
+.flaticon-plaster:before {
+    content: map-get($flaticon_bexco-medical-map, "plaster");
+}
+.flaticon-microscope:before {
+    content: map-get($flaticon_bexco-medical-map, "microscope");
+}
+.flaticon-medical-kit:before {
+    content: map-get($flaticon_bexco-medical-map, "medical-kit");
+}
+.flaticon-hammer:before {
+    content: map-get($flaticon_bexco-medical-map, "hammer");
+}
+.flaticon-telephone:before {
+    content: map-get($flaticon_bexco-medical-map, "telephone");
+}
+.flaticon-test-tube:before {
+    content: map-get($flaticon_bexco-medical-map, "test-tube");
+}
+.flaticon-thermometer:before {
+    content: map-get($flaticon_bexco-medical-map, "thermometer");
+}
+.flaticon-weight-scale:before {
+    content: map-get($flaticon_bexco-medical-map, "weight-scale");
+}
+.flaticon-blood:before {
+    content: map-get($flaticon_bexco-medical-map, "blood");
+}
+.flaticon-breast-cancer:before {
+    content: map-get($flaticon_bexco-medical-map, "breast-cancer");
+}
+.flaticon-medical:before {
+    content: map-get($flaticon_bexco-medical-map, "medical");
+}
+.flaticon-emergency-call:before {
+    content: map-get($flaticon_bexco-medical-map, "emergency-call");
+}
+.flaticon-ambulance-1:before {
+    content: map-get($flaticon_bexco-medical-map, "ambulance-1");
+}
+.flaticon-doctor-1:before {
+    content: map-get($flaticon_bexco-medical-map, "doctor-1");
+}
+.flaticon-appointment:before {
+    content: map-get($flaticon_bexco-medical-map, "appointment");
+}
+.flaticon-heart:before {
+    content: map-get($flaticon_bexco-medical-map, "heart");
+}
+.flaticon-arrow-down:before {
+    content: map-get($flaticon_bexco-medical-map, "arrow-down");
+}

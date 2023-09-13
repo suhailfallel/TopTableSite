@@ -1,0 +1,161 @@
+$flaticon_bexco-software-font: "flaticon_bexco-software";
+
+@font-face {
+    font-family: $flaticon_bexco-software-font;
+    src: url("./flaticon_bexco-software.ttf?9eca72e7b28f85f2588d2cbeb22ebd6a") format("truetype"),
+url("./flaticon_bexco-software.woff?9eca72e7b28f85f2588d2cbeb22ebd6a") format("woff"),
+url("./flaticon_bexco-software.woff2?9eca72e7b28f85f2588d2cbeb22ebd6a") format("woff2"),
+url("./flaticon_bexco-software.eot?9eca72e7b28f85f2588d2cbeb22ebd6a#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-software.svg?9eca72e7b28f85f2588d2cbeb22ebd6a#flaticon_bexco-software") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_bexco-software !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_bexco-software-map: (
+    "cube": "\f101",
+    "down-arrow": "\f102",
+    "increase": "\f103",
+    "product-return": "\f104",
+    "inbound": "\f105",
+    "campaign": "\f106",
+    "upgrade": "\f107",
+    "imac-computer": "\f108",
+    "widget": "\f109",
+    "layer": "\f10a",
+    "software": "\f10b",
+    "sd-card": "\f10c",
+    "software-engineer": "\f10d",
+    "software-1": "\f10e",
+    "software-2": "\f10f",
+    "cloud-service": "\f110",
+    "software-engineer-1": "\f111",
+    "software-development": "\f112",
+    "cloud": "\f113",
+    "software-3": "\f114",
+    "coding": "\f115",
+    "illustration": "\f116",
+    "artificial-intelligence": "\f117",
+    "algorithm": "\f118",
+    "development": "\f119",
+    "software-engineer-2": "\f11a",
+    "software-developer": "\f11b",
+    "security": "\f11c",
+    "react": "\f11d",
+    "certificate": "\f11e",
+    "installing": "\f11f",
+    "maintenance": "\f120",
+    "software-4": "\f121",
+    "cloud-1": "\f122",
+);
+
+.flaticon-cube:before {
+    content: map-get($flaticon_bexco-software-map, "cube");
+}
+.flaticon-down-arrow:before {
+    content: map-get($flaticon_bexco-software-map, "down-arrow");
+}
+.flaticon-increase:before {
+    content: map-get($flaticon_bexco-software-map, "increase");
+}
+.flaticon-product-return:before {
+    content: map-get($flaticon_bexco-software-map, "product-return");
+}
+.flaticon-inbound:before {
+    content: map-get($flaticon_bexco-software-map, "inbound");
+}
+.flaticon-campaign:before {
+    content: map-get($flaticon_bexco-software-map, "campaign");
+}
+.flaticon-upgrade:before {
+    content: map-get($flaticon_bexco-software-map, "upgrade");
+}
+.flaticon-imac-computer:before {
+    content: map-get($flaticon_bexco-software-map, "imac-computer");
+}
+.flaticon-widget:before {
+    content: map-get($flaticon_bexco-software-map, "widget");
+}
+.flaticon-layer:before {
+    content: map-get($flaticon_bexco-software-map, "layer");
+}
+.flaticon-software:before {
+    content: map-get($flaticon_bexco-software-map, "software");
+}
+.flaticon-sd-card:before {
+    content: map-get($flaticon_bexco-software-map, "sd-card");
+}
+.flaticon-software-engineer:before {
+    content: map-get($flaticon_bexco-software-map, "software-engineer");
+}
+.flaticon-software-1:before {
+    content: map-get($flaticon_bexco-software-map, "software-1");
+}
+.flaticon-software-2:before {
+    content: map-get($flaticon_bexco-software-map, "software-2");
+}
+.flaticon-cloud-service:before {
+    content: map-get($flaticon_bexco-software-map, "cloud-service");
+}
+.flaticon-software-engineer-1:before {
+    content: map-get($flaticon_bexco-software-map, "software-engineer-1");
+}
+.flaticon-software-development:before {
+    content: map-get($flaticon_bexco-software-map, "software-development");
+}
+.flaticon-cloud:before {
+    content: map-get($flaticon_bexco-software-map, "cloud");
+}
+.flaticon-software-3:before {
+    content: map-get($flaticon_bexco-software-map, "software-3");
+}
+.flaticon-coding:before {
+    content: map-get($flaticon_bexco-software-map, "coding");
+}
+.flaticon-illustration:before {
+    content: map-get($flaticon_bexco-software-map, "illustration");
+}
+.flaticon-artificial-intelligence:before {
+    content: map-get($flaticon_bexco-software-map, "artificial-intelligence");
+}
+.flaticon-algorithm:before {
+    content: map-get($flaticon_bexco-software-map, "algorithm");
+}
+.flaticon-development:before {
+    content: map-get($flaticon_bexco-software-map, "development");
+}
+.flaticon-software-engineer-2:before {
+    content: map-get($flaticon_bexco-software-map, "software-engineer-2");
+}
+.flaticon-software-developer:before {
+    content: map-get($flaticon_bexco-software-map, "software-developer");
+}
+.flaticon-security:before {
+    content: map-get($flaticon_bexco-software-map, "security");
+}
+.flaticon-react:before {
+    content: map-get($flaticon_bexco-software-map, "react");
+}
+.flaticon-certificate:before {
+    content: map-get($flaticon_bexco-software-map, "certificate");
+}
+.flaticon-installing:before {
+    content: map-get($flaticon_bexco-software-map, "installing");
+}
+.flaticon-maintenance:before {
+    content: map-get($flaticon_bexco-software-map, "maintenance");
+}
+.flaticon-software-4:before {
+    content: map-get($flaticon_bexco-software-map, "software-4");
+}
+.flaticon-cloud-1:before {
+    content: map-get($flaticon_bexco-software-map, "cloud-1");
+}

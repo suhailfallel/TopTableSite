@@ -1,0 +1,125 @@
+@font-face {
+    font-family: "flaticon_bexco-digital-agency";
+    src: url("../fonts/pbmit-bexco-digital-agency-icon/flaticon_bexco-digital-agency.ttf?5d8659986139bf8352da91e4665c3e76") format("truetype"),
+url("../fonts/pbmit-bexco-digital-agency-icon/flaticon_bexco-digital-agency.woff?5d8659986139bf8352da91e4665c3e76") format("woff"),
+url("../fonts/pbmit-bexco-digital-agency-icon/flaticon_bexco-digital-agency.woff2?5d8659986139bf8352da91e4665c3e76") format("woff2"),
+url("../fonts/pbmit-bexco-digital-agency-icon/flaticon_bexco-digital-agency.eot?5d8659986139bf8352da91e4665c3e76#iefix") format("embedded-opentype"),
+url("../fonts/pbmit-bexco-digital-agency-icon/flaticon_bexco-digital-agency.svg?5d8659986139bf8352da91e4665c3e76#flaticon_bexco-digital-agency") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" pbmit-bexco-digital-agency-icon-"]:before {
+    font-family: flaticon_bexco-digital-agency !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pbmit-bexco-digital-agency-icon-cost-per-click:before {
+    content: "\f101";
+}
+.pbmit-bexco-digital-agency-icon-local:before {
+    content: "\f102";
+}
+.pbmit-bexco-digital-agency-icon-deadline:before {
+    content: "\f103";
+}
+.pbmit-bexco-digital-agency-icon-browser:before {
+    content: "\f104";
+}
+.pbmit-bexco-digital-agency-icon-viral:before {
+    content: "\f105";
+}
+.pbmit-bexco-digital-agency-icon-certificate:before {
+    content: "\f106";
+}
+.pbmit-bexco-digital-agency-icon-mobile:before {
+    content: "\f107";
+}
+.pbmit-bexco-digital-agency-icon-online:before {
+    content: "\f108";
+}
+.pbmit-bexco-digital-agency-icon-market:before {
+    content: "\f109";
+}
+.pbmit-bexco-digital-agency-icon-mail:before {
+    content: "\f10a";
+}
+.pbmit-bexco-digital-agency-icon-internet:before {
+    content: "\f10b";
+}
+.pbmit-bexco-digital-agency-icon-device:before {
+    content: "\f10c";
+}
+.pbmit-bexco-digital-agency-icon-active:before {
+    content: "\f10d";
+}
+.pbmit-bexco-digital-agency-icon-rates:before {
+    content: "\f10e";
+}
+.pbmit-bexco-digital-agency-icon-online-1:before {
+    content: "\f10f";
+}
+.pbmit-bexco-digital-agency-icon-photography:before {
+    content: "\f110";
+}
+.pbmit-bexco-digital-agency-icon-setting:before {
+    content: "\f111";
+}
+.pbmit-bexco-digital-agency-icon-smartwatch:before {
+    content: "\f112";
+}
+.pbmit-bexco-digital-agency-icon-target:before {
+    content: "\f113";
+}
+.pbmit-bexco-digital-agency-icon-technical-support:before {
+    content: "\f114";
+}
+.pbmit-bexco-digital-agency-icon-web:before {
+    content: "\f115";
+}
+.pbmit-bexco-digital-agency-icon-copywriting:before {
+    content: "\f116";
+}
+.pbmit-bexco-digital-agency-icon-cloud:before {
+    content: "\f117";
+}
+.pbmit-bexco-digital-agency-icon-cloud-1:before {
+    content: "\f118";
+}
+.pbmit-bexco-digital-agency-icon-pen-tool:before {
+    content: "\f119";
+}
+.pbmit-bexco-digital-agency-icon-pathfinder:before {
+    content: "\f11a";
+}
+.pbmit-bexco-digital-agency-icon-paint-swatch:before {
+    content: "\f11b";
+}
+.pbmit-bexco-digital-agency-icon-online-chat:before {
+    content: "\f11c";
+}
+.pbmit-bexco-digital-agency-icon-cms:before {
+    content: "\f11d";
+}
+.pbmit-bexco-digital-agency-icon-processor:before {
+    content: "\f11e";
+}
+.pbmit-bexco-digital-agency-icon-lecture:before {
+    content: "\f11f";
+}
+.pbmit-bexco-digital-agency-icon-mobile-development:before {
+    content: "\f120";
+}
+.pbmit-bexco-digital-agency-icon-digitalization:before {
+    content: "\f121";
+}
+.pbmit-bexco-digital-agency-icon-check:before {
+    content: "\f122";
+}
+.pbmit-bexco-digital-agency-icon-up-right-arrow:before {
+    content: "\f123";
+}

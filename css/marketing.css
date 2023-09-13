@@ -1,0 +1,49 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet');
+ :root {
+     --pbmit-global-color: #c9f31d;
+     --pbmit-secondary-color: #1e1e25;
+     --pbmit-light-color: #f6f6f6;
+     --pbmit-white-color: #ffffff;
+     --pbmit-blackish-color: #27272f;
+     --pbmit-link-color-normal: #1e1e25;
+     --pbmit-link-color-hover: #c9f31d;
+     --pbmit-global-color-rgb: rgb(201, 243, 29);
+     --pbmit-secondary-color-rgb:rgb(30, 30, 37);
+     --pbmit-responsive-breakpoint: 1200px;
+     --pbmit-body-typography-font-family:'DM Sans', sans-serif;
+     --pbmit-body-typography-variant: regular;
+     --pbmit-body-typography-font-size: 17px;
+     --pbmit-body-typography-line-height: 1.8;
+     --pbmit-body-typography-color: #666666;
+     --pbmit-heading-typography-font-family:  'Kanit', sans-serif;
+     --pbmit-heading-color: #27272f;
+     --pbmit-heading-font-variant:normal;
+     --pbmit-btn-typography-font-family:  'Kanit', sans-serif;
+     --pbmit-btn-typography-variant: 500;
+     --pbmit-btn-typography-font-size: 15px;
+     --pbmit-btn-typography-line-height: 25px;
+}
+
+/*----------------------------------------*/
+/* 01 - Typography 
+/*----------------------------------------*/
+h1, h2, h3, h4, h5, h6 {
+    font-family:var(--pbmit-heading-typography-font-family);
+    font-weight: 500;
+    color: var(--pbmit-heading-color);
+}
+
+.pbmit-btn{
+    font-family: var(--pbmit-heading-typography-font-family);
+    font-weight: var(--pbmit-btn-typography-variant);
+    font-size: var(--pbmit-btn-typography-font-size);
+    line-height: var(--pbmit-btn-typography-line-height);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-style: normal;
+    padding: 16px 40px;
+}

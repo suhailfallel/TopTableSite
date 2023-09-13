@@ -1,0 +1,149 @@
+$flaticon_bexco-architect-font: "flaticon_bexco-architect";
+
+@font-face {
+    font-family: $flaticon_bexco-architect-font;
+    src: url("./flaticon_bexco-architect.ttf?25efc162af45c4b8d196b6a1790d03e1") format("truetype"),
+url("./flaticon_bexco-architect.woff?25efc162af45c4b8d196b6a1790d03e1") format("woff"),
+url("./flaticon_bexco-architect.woff2?25efc162af45c4b8d196b6a1790d03e1") format("woff2"),
+url("./flaticon_bexco-architect.eot?25efc162af45c4b8d196b6a1790d03e1#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-architect.svg?25efc162af45c4b8d196b6a1790d03e1#flaticon_bexco-architect") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_bexco-architect !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_bexco-architect-map: (
+    "architect": "\f101",
+    "architect-1": "\f102",
+    "architect-2": "\f103",
+    "architecture": "\f104",
+    "architect-3": "\f105",
+    "architect-4": "\f106",
+    "architect-5": "\f107",
+    "architect-6": "\f108",
+    "architecture-1": "\f109",
+    "architect-7": "\f10a",
+    "architect-8": "\f10b",
+    "architect-9": "\f10c",
+    "presentation": "\f10d",
+    "architect-10": "\f10e",
+    "architect-11": "\f10f",
+    "architect-12": "\f110",
+    "architect-13": "\f111",
+    "architect-14": "\f112",
+    "architect-15": "\f113",
+    "architect-16": "\f114",
+    "architect-17": "\f115",
+    "architect-18": "\f116",
+    "architecture-2": "\f117",
+    "architect-19": "\f118",
+    "architect-20": "\f119",
+    "quote": "\f11a",
+    "phone-call": "\f11b",
+    "emergency-call": "\f11c",
+    "open": "\f11d",
+    "placeholder": "\f11e",
+    "call": "\f11f",
+);
+
+.flaticon-architect:before {
+    content: map-get($flaticon_bexco-architect-map, "architect");
+}
+.flaticon-architect-1:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-1");
+}
+.flaticon-architect-2:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-2");
+}
+.flaticon-architecture:before {
+    content: map-get($flaticon_bexco-architect-map, "architecture");
+}
+.flaticon-architect-3:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-3");
+}
+.flaticon-architect-4:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-4");
+}
+.flaticon-architect-5:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-5");
+}
+.flaticon-architect-6:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-6");
+}
+.flaticon-architecture-1:before {
+    content: map-get($flaticon_bexco-architect-map, "architecture-1");
+}
+.flaticon-architect-7:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-7");
+}
+.flaticon-architect-8:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-8");
+}
+.flaticon-architect-9:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-9");
+}
+.flaticon-presentation:before {
+    content: map-get($flaticon_bexco-architect-map, "presentation");
+}
+.flaticon-architect-10:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-10");
+}
+.flaticon-architect-11:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-11");
+}
+.flaticon-architect-12:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-12");
+}
+.flaticon-architect-13:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-13");
+}
+.flaticon-architect-14:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-14");
+}
+.flaticon-architect-15:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-15");
+}
+.flaticon-architect-16:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-16");
+}
+.flaticon-architect-17:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-17");
+}
+.flaticon-architect-18:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-18");
+}
+.flaticon-architecture-2:before {
+    content: map-get($flaticon_bexco-architect-map, "architecture-2");
+}
+.flaticon-architect-19:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-19");
+}
+.flaticon-architect-20:before {
+    content: map-get($flaticon_bexco-architect-map, "architect-20");
+}
+.flaticon-quote:before {
+    content: map-get($flaticon_bexco-architect-map, "quote");
+}
+.flaticon-phone-call:before {
+    content: map-get($flaticon_bexco-architect-map, "phone-call");
+}
+.flaticon-emergency-call:before {
+    content: map-get($flaticon_bexco-architect-map, "emergency-call");
+}
+.flaticon-open:before {
+    content: map-get($flaticon_bexco-architect-map, "open");
+}
+.flaticon-placeholder:before {
+    content: map-get($flaticon_bexco-architect-map, "placeholder");
+}
+.flaticon-call:before {
+    content: map-get($flaticon_bexco-architect-map, "call");
+}

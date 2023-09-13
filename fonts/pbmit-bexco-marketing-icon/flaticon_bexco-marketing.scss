@@ -1,0 +1,325 @@
+$flaticon_bexco-marketing-font: "flaticon_bexco-marketing";
+
+@font-face {
+    font-family: $flaticon_bexco-marketing-font;
+    src: url("./flaticon_bexco-marketing.ttf?873f568e873866e60b4a74cb43a22b55") format("truetype"),
+url("./flaticon_bexco-marketing.woff?873f568e873866e60b4a74cb43a22b55") format("woff"),
+url("./flaticon_bexco-marketing.woff2?873f568e873866e60b4a74cb43a22b55") format("woff2"),
+url("./flaticon_bexco-marketing.eot?873f568e873866e60b4a74cb43a22b55#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-marketing.svg?873f568e873866e60b4a74cb43a22b55#flaticon_bexco-marketing") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_bexco-marketing !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_bexco-marketing-map: (
+    "cost-per-click": "\f101",
+    "deadline": "\f102",
+    "browser": "\f103",
+    "viral": "\f104",
+    "certificate": "\f105",
+    "mobile": "\f106",
+    "market": "\f107",
+    "rates": "\f108",
+    "device": "\f109",
+    "internet": "\f10a",
+    "active": "\f10b",
+    "mail": "\f10c",
+    "online": "\f10d",
+    "photography": "\f10e",
+    "setting": "\f10f",
+    "smartwatch": "\f110",
+    "target": "\f111",
+    "technical-support": "\f112",
+    "web": "\f113",
+    "cloud": "\f114",
+    "copywriting": "\f115",
+    "cloud-1": "\f116",
+    "monitor": "\f117",
+    "desktop": "\f118",
+    "intersection": "\f119",
+    "layers": "\f11a",
+    "vector": "\f11b",
+    "crop": "\f11c",
+    "set-square": "\f11d",
+    "oil-paint": "\f11e",
+    "compass": "\f11f",
+    "vector-1": "\f120",
+    "pathfinder": "\f121",
+    "pantone": "\f122",
+    "star": "\f123",
+    "wallet": "\f124",
+    "bank": "\f125",
+    "goal": "\f126",
+    "startup": "\f127",
+    "safebox": "\f128",
+    "money-bag": "\f129",
+    "present": "\f12a",
+    "idea": "\f12b",
+    "briefcase": "\f12c",
+    "money": "\f12d",
+    "feedback": "\f12e",
+    "email": "\f12f",
+    "donation": "\f130",
+    "promotion": "\f131",
+    "guarantee": "\f132",
+    "target-1": "\f133",
+    "check": "\f134",
+    "line-chart": "\f135",
+    "medal": "\f136",
+    "diamond": "\f137",
+    "signal-tower": "\f138",
+    "shopping-cart": "\f139",
+    "bank-1": "\f13a",
+    "laptop-screen": "\f13b",
+    "suitcase": "\f13c",
+    "price-tag": "\f13d",
+    "piggy-bank": "\f13e",
+    "megaphone": "\f13f",
+    "cv": "\f140",
+    "dollar-coin": "\f141",
+    "wallet-1": "\f142",
+    "man": "\f143",
+    "magnifying-glass": "\f144",
+    "hierarchy": "\f145",
+    "dollar-coin-1": "\f146",
+    "customer-support": "\f147",
+    "next": "\f148",
+    "up-right-arrow": "\f149",
+    "circle": "\f14a",
+    "star-of-life": "\f14b",
+);
+
+.flaticon-cost-per-click:before {
+    content: map-get($flaticon_bexco-marketing-map, "cost-per-click");
+}
+.flaticon-deadline:before {
+    content: map-get($flaticon_bexco-marketing-map, "deadline");
+}
+.flaticon-browser:before {
+    content: map-get($flaticon_bexco-marketing-map, "browser");
+}
+.flaticon-viral:before {
+    content: map-get($flaticon_bexco-marketing-map, "viral");
+}
+.flaticon-certificate:before {
+    content: map-get($flaticon_bexco-marketing-map, "certificate");
+}
+.flaticon-mobile:before {
+    content: map-get($flaticon_bexco-marketing-map, "mobile");
+}
+.flaticon-market:before {
+    content: map-get($flaticon_bexco-marketing-map, "market");
+}
+.flaticon-rates:before {
+    content: map-get($flaticon_bexco-marketing-map, "rates");
+}
+.flaticon-device:before {
+    content: map-get($flaticon_bexco-marketing-map, "device");
+}
+.flaticon-internet:before {
+    content: map-get($flaticon_bexco-marketing-map, "internet");
+}
+.flaticon-active:before {
+    content: map-get($flaticon_bexco-marketing-map, "active");
+}
+.flaticon-mail:before {
+    content: map-get($flaticon_bexco-marketing-map, "mail");
+}
+.flaticon-online:before {
+    content: map-get($flaticon_bexco-marketing-map, "online");
+}
+.flaticon-photography:before {
+    content: map-get($flaticon_bexco-marketing-map, "photography");
+}
+.flaticon-setting:before {
+    content: map-get($flaticon_bexco-marketing-map, "setting");
+}
+.flaticon-smartwatch:before {
+    content: map-get($flaticon_bexco-marketing-map, "smartwatch");
+}
+.flaticon-target:before {
+    content: map-get($flaticon_bexco-marketing-map, "target");
+}
+.flaticon-technical-support:before {
+    content: map-get($flaticon_bexco-marketing-map, "technical-support");
+}
+.flaticon-web:before {
+    content: map-get($flaticon_bexco-marketing-map, "web");
+}
+.flaticon-cloud:before {
+    content: map-get($flaticon_bexco-marketing-map, "cloud");
+}
+.flaticon-copywriting:before {
+    content: map-get($flaticon_bexco-marketing-map, "copywriting");
+}
+.flaticon-cloud-1:before {
+    content: map-get($flaticon_bexco-marketing-map, "cloud-1");
+}
+.flaticon-monitor:before {
+    content: map-get($flaticon_bexco-marketing-map, "monitor");
+}
+.flaticon-desktop:before {
+    content: map-get($flaticon_bexco-marketing-map, "desktop");
+}
+.flaticon-intersection:before {
+    content: map-get($flaticon_bexco-marketing-map, "intersection");
+}
+.flaticon-layers:before {
+    content: map-get($flaticon_bexco-marketing-map, "layers");
+}
+.flaticon-vector:before {
+    content: map-get($flaticon_bexco-marketing-map, "vector");
+}
+.flaticon-crop:before {
+    content: map-get($flaticon_bexco-marketing-map, "crop");
+}
+.flaticon-set-square:before {
+    content: map-get($flaticon_bexco-marketing-map, "set-square");
+}
+.flaticon-oil-paint:before {
+    content: map-get($flaticon_bexco-marketing-map, "oil-paint");
+}
+.flaticon-compass:before {
+    content: map-get($flaticon_bexco-marketing-map, "compass");
+}
+.flaticon-vector-1:before {
+    content: map-get($flaticon_bexco-marketing-map, "vector-1");
+}
+.flaticon-pathfinder:before {
+    content: map-get($flaticon_bexco-marketing-map, "pathfinder");
+}
+.flaticon-pantone:before {
+    content: map-get($flaticon_bexco-marketing-map, "pantone");
+}
+.flaticon-star:before {
+    content: map-get($flaticon_bexco-marketing-map, "star");
+}
+.flaticon-wallet:before {
+    content: map-get($flaticon_bexco-marketing-map, "wallet");
+}
+.flaticon-bank:before {
+    content: map-get($flaticon_bexco-marketing-map, "bank");
+}
+.flaticon-goal:before {
+    content: map-get($flaticon_bexco-marketing-map, "goal");
+}
+.flaticon-startup:before {
+    content: map-get($flaticon_bexco-marketing-map, "startup");
+}
+.flaticon-safebox:before {
+    content: map-get($flaticon_bexco-marketing-map, "safebox");
+}
+.flaticon-money-bag:before {
+    content: map-get($flaticon_bexco-marketing-map, "money-bag");
+}
+.flaticon-present:before {
+    content: map-get($flaticon_bexco-marketing-map, "present");
+}
+.flaticon-idea:before {
+    content: map-get($flaticon_bexco-marketing-map, "idea");
+}
+.flaticon-briefcase:before {
+    content: map-get($flaticon_bexco-marketing-map, "briefcase");
+}
+.flaticon-money:before {
+    content: map-get($flaticon_bexco-marketing-map, "money");
+}
+.flaticon-feedback:before {
+    content: map-get($flaticon_bexco-marketing-map, "feedback");
+}
+.flaticon-email:before {
+    content: map-get($flaticon_bexco-marketing-map, "email");
+}
+.flaticon-donation:before {
+    content: map-get($flaticon_bexco-marketing-map, "donation");
+}
+.flaticon-promotion:before {
+    content: map-get($flaticon_bexco-marketing-map, "promotion");
+}
+.flaticon-guarantee:before {
+    content: map-get($flaticon_bexco-marketing-map, "guarantee");
+}
+.flaticon-target-1:before {
+    content: map-get($flaticon_bexco-marketing-map, "target-1");
+}
+.flaticon-check:before {
+    content: map-get($flaticon_bexco-marketing-map, "check");
+}
+.flaticon-line-chart:before {
+    content: map-get($flaticon_bexco-marketing-map, "line-chart");
+}
+.flaticon-medal:before {
+    content: map-get($flaticon_bexco-marketing-map, "medal");
+}
+.flaticon-diamond:before {
+    content: map-get($flaticon_bexco-marketing-map, "diamond");
+}
+.flaticon-signal-tower:before {
+    content: map-get($flaticon_bexco-marketing-map, "signal-tower");
+}
+.flaticon-shopping-cart:before {
+    content: map-get($flaticon_bexco-marketing-map, "shopping-cart");
+}
+.flaticon-bank-1:before {
+    content: map-get($flaticon_bexco-marketing-map, "bank-1");
+}
+.flaticon-laptop-screen:before {
+    content: map-get($flaticon_bexco-marketing-map, "laptop-screen");
+}
+.flaticon-suitcase:before {
+    content: map-get($flaticon_bexco-marketing-map, "suitcase");
+}
+.flaticon-price-tag:before {
+    content: map-get($flaticon_bexco-marketing-map, "price-tag");
+}
+.flaticon-piggy-bank:before {
+    content: map-get($flaticon_bexco-marketing-map, "piggy-bank");
+}
+.flaticon-megaphone:before {
+    content: map-get($flaticon_bexco-marketing-map, "megaphone");
+}
+.flaticon-cv:before {
+    content: map-get($flaticon_bexco-marketing-map, "cv");
+}
+.flaticon-dollar-coin:before {
+    content: map-get($flaticon_bexco-marketing-map, "dollar-coin");
+}
+.flaticon-wallet-1:before {
+    content: map-get($flaticon_bexco-marketing-map, "wallet-1");
+}
+.flaticon-man:before {
+    content: map-get($flaticon_bexco-marketing-map, "man");
+}
+.flaticon-magnifying-glass:before {
+    content: map-get($flaticon_bexco-marketing-map, "magnifying-glass");
+}
+.flaticon-hierarchy:before {
+    content: map-get($flaticon_bexco-marketing-map, "hierarchy");
+}
+.flaticon-dollar-coin-1:before {
+    content: map-get($flaticon_bexco-marketing-map, "dollar-coin-1");
+}
+.flaticon-customer-support:before {
+    content: map-get($flaticon_bexco-marketing-map, "customer-support");
+}
+.flaticon-next:before {
+    content: map-get($flaticon_bexco-marketing-map, "next");
+}
+.flaticon-up-right-arrow:before {
+    content: map-get($flaticon_bexco-marketing-map, "up-right-arrow");
+}
+.flaticon-circle:before {
+    content: map-get($flaticon_bexco-marketing-map, "circle");
+}
+.flaticon-star-of-life:before {
+    content: map-get($flaticon_bexco-marketing-map, "star-of-life");
+}

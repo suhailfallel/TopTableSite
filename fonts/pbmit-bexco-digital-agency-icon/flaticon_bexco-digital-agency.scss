@@ -1,0 +1,165 @@
+$flaticon_bexco-digital-agency-font: "flaticon_bexco-digital-agency";
+
+@font-face {
+    font-family: $flaticon_bexco-digital-agency-font;
+    src: url("./flaticon_bexco-digital-agency.ttf?5d8659986139bf8352da91e4665c3e76") format("truetype"),
+url("./flaticon_bexco-digital-agency.woff?5d8659986139bf8352da91e4665c3e76") format("woff"),
+url("./flaticon_bexco-digital-agency.woff2?5d8659986139bf8352da91e4665c3e76") format("woff2"),
+url("./flaticon_bexco-digital-agency.eot?5d8659986139bf8352da91e4665c3e76#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-digital-agency.svg?5d8659986139bf8352da91e4665c3e76#flaticon_bexco-digital-agency") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_bexco-digital-agency !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_bexco-digital-agency-map: (
+    "cost-per-click": "\f101",
+    "local": "\f102",
+    "deadline": "\f103",
+    "browser": "\f104",
+    "viral": "\f105",
+    "certificate": "\f106",
+    "mobile": "\f107",
+    "online": "\f108",
+    "market": "\f109",
+    "mail": "\f10a",
+    "internet": "\f10b",
+    "device": "\f10c",
+    "active": "\f10d",
+    "rates": "\f10e",
+    "online-1": "\f10f",
+    "photography": "\f110",
+    "setting": "\f111",
+    "smartwatch": "\f112",
+    "target": "\f113",
+    "technical-support": "\f114",
+    "web": "\f115",
+    "copywriting": "\f116",
+    "cloud": "\f117",
+    "cloud-1": "\f118",
+    "pen-tool": "\f119",
+    "pathfinder": "\f11a",
+    "paint-swatch": "\f11b",
+    "online-chat": "\f11c",
+    "cms": "\f11d",
+    "processor": "\f11e",
+    "lecture": "\f11f",
+    "mobile-development": "\f120",
+    "digitalization": "\f121",
+    "check": "\f122",
+    "up-right-arrow": "\f123",
+);
+
+.flaticon-cost-per-click:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "cost-per-click");
+}
+.flaticon-local:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "local");
+}
+.flaticon-deadline:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "deadline");
+}
+.flaticon-browser:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "browser");
+}
+.flaticon-viral:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "viral");
+}
+.flaticon-certificate:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "certificate");
+}
+.flaticon-mobile:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "mobile");
+}
+.flaticon-online:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "online");
+}
+.flaticon-market:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "market");
+}
+.flaticon-mail:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "mail");
+}
+.flaticon-internet:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "internet");
+}
+.flaticon-device:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "device");
+}
+.flaticon-active:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "active");
+}
+.flaticon-rates:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "rates");
+}
+.flaticon-online-1:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "online-1");
+}
+.flaticon-photography:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "photography");
+}
+.flaticon-setting:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "setting");
+}
+.flaticon-smartwatch:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "smartwatch");
+}
+.flaticon-target:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "target");
+}
+.flaticon-technical-support:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "technical-support");
+}
+.flaticon-web:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "web");
+}
+.flaticon-copywriting:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "copywriting");
+}
+.flaticon-cloud:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "cloud");
+}
+.flaticon-cloud-1:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "cloud-1");
+}
+.flaticon-pen-tool:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "pen-tool");
+}
+.flaticon-pathfinder:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "pathfinder");
+}
+.flaticon-paint-swatch:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "paint-swatch");
+}
+.flaticon-online-chat:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "online-chat");
+}
+.flaticon-cms:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "cms");
+}
+.flaticon-processor:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "processor");
+}
+.flaticon-lecture:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "lecture");
+}
+.flaticon-mobile-development:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "mobile-development");
+}
+.flaticon-digitalization:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "digitalization");
+}
+.flaticon-check:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "check");
+}
+.flaticon-up-right-arrow:before {
+    content: map-get($flaticon_bexco-digital-agency-map, "up-right-arrow");
+}

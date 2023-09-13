@@ -1,0 +1,277 @@
+$flaticon_bexco-restaurant-font: "flaticon_bexco-restaurant";
+
+@font-face {
+    font-family: $flaticon_bexco-restaurant-font;
+    src: url("./flaticon_bexco-restaurant.ttf?a45951600214ec955cffc25960184b81") format("truetype"),
+url("./flaticon_bexco-restaurant.woff?a45951600214ec955cffc25960184b81") format("woff"),
+url("./flaticon_bexco-restaurant.woff2?a45951600214ec955cffc25960184b81") format("woff2"),
+url("./flaticon_bexco-restaurant.eot?a45951600214ec955cffc25960184b81#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-restaurant.svg?a45951600214ec955cffc25960184b81#flaticon_bexco-restaurant") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_bexco-restaurant !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_bexco-restaurant-map: (
+    "arrow-down": "\f101",
+    "play-button": "\f102",
+    "like": "\f103",
+    "search": "\f104",
+    "email": "\f105",
+    "envelope-of-white-paper": "\f106",
+    "cardiogram": "\f107",
+    "record-button": "\f108",
+    "record": "\f109",
+    "phone-call": "\f10a",
+    "at": "\f10b",
+    "chat": "\f10c",
+    "play-button-1": "\f10d",
+    "play": "\f10e",
+    "restaurant": "\f10f",
+    "cutlery": "\f110",
+    "food-serving": "\f111",
+    "cooking": "\f112",
+    "cooking-1": "\f113",
+    "pot": "\f114",
+    "cooking-2": "\f115",
+    "waiter": "\f116",
+    "waiter-1": "\f117",
+    "restaurant-menu": "\f118",
+    "order-food": "\f119",
+    "restaurant-menu-1": "\f11a",
+    "fast-food": "\f11b",
+    "restaurant-1": "\f11c",
+    "menu": "\f11d",
+    "champagne-glass": "\f11e",
+    "chef": "\f11f",
+    "kitchen-tools": "\f120",
+    "cupcake": "\f121",
+    "donut": "\f122",
+    "salad": "\f123",
+    "diet": "\f124",
+    "pizza": "\f125",
+    "take-away": "\f126",
+    "strawberries": "\f127",
+    "cocktail": "\f128",
+    "food-service": "\f129",
+    "location": "\f12a",
+    "restaurant-2": "\f12b",
+    "dinner-table": "\f12c",
+    "birthday-cupcake": "\f12d",
+    "cooking-3": "\f12e",
+    "fast-food-1": "\f12f",
+    "drink": "\f130",
+    "restaurant-3": "\f131",
+    "coconut-drink": "\f132",
+    "location-1": "\f133",
+    "mail": "\f134",
+    "lemon": "\f135",
+    "icecream": "\f136",
+    "delivery-man": "\f137",
+    "tray": "\f138",
+    "waiter-2": "\f139",
+    "noodle": "\f13a",
+    "check": "\f13b",
+    "up-right-arrow": "\f13c",
+    "facebook-circular-logo": "\f13d",
+    "twitter": "\f13e",
+    "youtube": "\f13f",
+);
+
+.flaticon-arrow-down:before {
+    content: map-get($flaticon_bexco-restaurant-map, "arrow-down");
+}
+.flaticon-play-button:before {
+    content: map-get($flaticon_bexco-restaurant-map, "play-button");
+}
+.flaticon-like:before {
+    content: map-get($flaticon_bexco-restaurant-map, "like");
+}
+.flaticon-search:before {
+    content: map-get($flaticon_bexco-restaurant-map, "search");
+}
+.flaticon-email:before {
+    content: map-get($flaticon_bexco-restaurant-map, "email");
+}
+.flaticon-envelope-of-white-paper:before {
+    content: map-get($flaticon_bexco-restaurant-map, "envelope-of-white-paper");
+}
+.flaticon-cardiogram:before {
+    content: map-get($flaticon_bexco-restaurant-map, "cardiogram");
+}
+.flaticon-record-button:before {
+    content: map-get($flaticon_bexco-restaurant-map, "record-button");
+}
+.flaticon-record:before {
+    content: map-get($flaticon_bexco-restaurant-map, "record");
+}
+.flaticon-phone-call:before {
+    content: map-get($flaticon_bexco-restaurant-map, "phone-call");
+}
+.flaticon-at:before {
+    content: map-get($flaticon_bexco-restaurant-map, "at");
+}
+.flaticon-chat:before {
+    content: map-get($flaticon_bexco-restaurant-map, "chat");
+}
+.flaticon-play-button-1:before {
+    content: map-get($flaticon_bexco-restaurant-map, "play-button-1");
+}
+.flaticon-play:before {
+    content: map-get($flaticon_bexco-restaurant-map, "play");
+}
+.flaticon-restaurant:before {
+    content: map-get($flaticon_bexco-restaurant-map, "restaurant");
+}
+.flaticon-cutlery:before {
+    content: map-get($flaticon_bexco-restaurant-map, "cutlery");
+}
+.flaticon-food-serving:before {
+    content: map-get($flaticon_bexco-restaurant-map, "food-serving");
+}
+.flaticon-cooking:before {
+    content: map-get($flaticon_bexco-restaurant-map, "cooking");
+}
+.flaticon-cooking-1:before {
+    content: map-get($flaticon_bexco-restaurant-map, "cooking-1");
+}
+.flaticon-pot:before {
+    content: map-get($flaticon_bexco-restaurant-map, "pot");
+}
+.flaticon-cooking-2:before {
+    content: map-get($flaticon_bexco-restaurant-map, "cooking-2");
+}
+.flaticon-waiter:before {
+    content: map-get($flaticon_bexco-restaurant-map, "waiter");
+}
+.flaticon-waiter-1:before {
+    content: map-get($flaticon_bexco-restaurant-map, "waiter-1");
+}
+.flaticon-restaurant-menu:before {
+    content: map-get($flaticon_bexco-restaurant-map, "restaurant-menu");
+}
+.flaticon-order-food:before {
+    content: map-get($flaticon_bexco-restaurant-map, "order-food");
+}
+.flaticon-restaurant-menu-1:before {
+    content: map-get($flaticon_bexco-restaurant-map, "restaurant-menu-1");
+}
+.flaticon-fast-food:before {
+    content: map-get($flaticon_bexco-restaurant-map, "fast-food");
+}
+.flaticon-restaurant-1:before {
+    content: map-get($flaticon_bexco-restaurant-map, "restaurant-1");
+}
+.flaticon-menu:before {
+    content: map-get($flaticon_bexco-restaurant-map, "menu");
+}
+.flaticon-champagne-glass:before {
+    content: map-get($flaticon_bexco-restaurant-map, "champagne-glass");
+}
+.flaticon-chef:before {
+    content: map-get($flaticon_bexco-restaurant-map, "chef");
+}
+.flaticon-kitchen-tools:before {
+    content: map-get($flaticon_bexco-restaurant-map, "kitchen-tools");
+}
+.flaticon-cupcake:before {
+    content: map-get($flaticon_bexco-restaurant-map, "cupcake");
+}
+.flaticon-donut:before {
+    content: map-get($flaticon_bexco-restaurant-map, "donut");
+}
+.flaticon-salad:before {
+    content: map-get($flaticon_bexco-restaurant-map, "salad");
+}
+.flaticon-diet:before {
+    content: map-get($flaticon_bexco-restaurant-map, "diet");
+}
+.flaticon-pizza:before {
+    content: map-get($flaticon_bexco-restaurant-map, "pizza");
+}
+.flaticon-take-away:before {
+    content: map-get($flaticon_bexco-restaurant-map, "take-away");
+}
+.flaticon-strawberries:before {
+    content: map-get($flaticon_bexco-restaurant-map, "strawberries");
+}
+.flaticon-cocktail:before {
+    content: map-get($flaticon_bexco-restaurant-map, "cocktail");
+}
+.flaticon-food-service:before {
+    content: map-get($flaticon_bexco-restaurant-map, "food-service");
+}
+.flaticon-location:before {
+    content: map-get($flaticon_bexco-restaurant-map, "location");
+}
+.flaticon-restaurant-2:before {
+    content: map-get($flaticon_bexco-restaurant-map, "restaurant-2");
+}
+.flaticon-dinner-table:before {
+    content: map-get($flaticon_bexco-restaurant-map, "dinner-table");
+}
+.flaticon-birthday-cupcake:before {
+    content: map-get($flaticon_bexco-restaurant-map, "birthday-cupcake");
+}
+.flaticon-cooking-3:before {
+    content: map-get($flaticon_bexco-restaurant-map, "cooking-3");
+}
+.flaticon-fast-food-1:before {
+    content: map-get($flaticon_bexco-restaurant-map, "fast-food-1");
+}
+.flaticon-drink:before {
+    content: map-get($flaticon_bexco-restaurant-map, "drink");
+}
+.flaticon-restaurant-3:before {
+    content: map-get($flaticon_bexco-restaurant-map, "restaurant-3");
+}
+.flaticon-coconut-drink:before {
+    content: map-get($flaticon_bexco-restaurant-map, "coconut-drink");
+}
+.flaticon-location-1:before {
+    content: map-get($flaticon_bexco-restaurant-map, "location-1");
+}
+.flaticon-mail:before {
+    content: map-get($flaticon_bexco-restaurant-map, "mail");
+}
+.flaticon-lemon:before {
+    content: map-get($flaticon_bexco-restaurant-map, "lemon");
+}
+.flaticon-icecream:before {
+    content: map-get($flaticon_bexco-restaurant-map, "icecream");
+}
+.flaticon-delivery-man:before {
+    content: map-get($flaticon_bexco-restaurant-map, "delivery-man");
+}
+.flaticon-tray:before {
+    content: map-get($flaticon_bexco-restaurant-map, "tray");
+}
+.flaticon-waiter-2:before {
+    content: map-get($flaticon_bexco-restaurant-map, "waiter-2");
+}
+.flaticon-noodle:before {
+    content: map-get($flaticon_bexco-restaurant-map, "noodle");
+}
+.flaticon-check:before {
+    content: map-get($flaticon_bexco-restaurant-map, "check");
+}
+.flaticon-up-right-arrow:before {
+    content: map-get($flaticon_bexco-restaurant-map, "up-right-arrow");
+}
+.flaticon-facebook-circular-logo:before {
+    content: map-get($flaticon_bexco-restaurant-map, "facebook-circular-logo");
+}
+.flaticon-twitter:before {
+    content: map-get($flaticon_bexco-restaurant-map, "twitter");
+}
+.flaticon-youtube:before {
+    content: map-get($flaticon_bexco-restaurant-map, "youtube");
+}

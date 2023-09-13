@@ -1,0 +1,201 @@
+$flaticon_bexco-construction-font: "flaticon_bexco-construction";
+
+@font-face {
+    font-family: $flaticon_bexco-construction-font;
+    src: url("./flaticon_bexco-construction.ttf?05a6a67e371e00e1e3277518534d1345") format("truetype"),
+url("./flaticon_bexco-construction.woff?05a6a67e371e00e1e3277518534d1345") format("woff"),
+url("./flaticon_bexco-construction.woff2?05a6a67e371e00e1e3277518534d1345") format("woff2"),
+url("./flaticon_bexco-construction.eot?05a6a67e371e00e1e3277518534d1345#iefix") format("embedded-opentype"),
+url("./flaticon_bexco-construction.svg?05a6a67e371e00e1e3277518534d1345#flaticon_bexco-construction") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_bexco-construction !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_bexco-construction-map: (
+    "paint-brush": "\f101",
+    "paint-roller": "\f102",
+    "painter": "\f103",
+    "crane": "\f104",
+    "concrete-pump": "\f105",
+    "scissor-lift": "\f106",
+    "water-meter": "\f107",
+    "screwdriver": "\f108",
+    "circular-saw": "\f109",
+    "concrete-mixer": "\f10a",
+    "wheelbarrow": "\f10b",
+    "steamroller": "\f10c",
+    "loader": "\f10d",
+    "planning": "\f10e",
+    "excavator": "\f10f",
+    "forklift": "\f110",
+    "drill": "\f111",
+    "jackhammer": "\f112",
+    "fence": "\f113",
+    "constructor": "\f114",
+    "dump-truck": "\f115",
+    "pincer": "\f116",
+    "blueprint": "\f117",
+    "apron": "\f118",
+    "bulldozing": "\f119",
+    "color-palette": "\f11a",
+    "brush": "\f11b",
+    "hammer": "\f11c",
+    "fire-hydrant": "\f11d",
+    "hand-saw": "\f11e",
+    "helmet": "\f11f",
+    "house": "\f120",
+    "shovel": "\f121",
+    "pipeline": "\f122",
+    "measuring-tape": "\f123",
+    "warning-sign": "\f124",
+    "spirit-level": "\f125",
+    "telephone": "\f126",
+    "up-right-arrow": "\f127",
+    "down-arrow": "\f128",
+    "helmet-1": "\f129",
+    "telephone-1": "\f12a",
+    "pin": "\f12b",
+    "mail": "\f12c",
+);
+
+.flaticon-paint-brush:before {
+    content: map-get($flaticon_bexco-construction-map, "paint-brush");
+}
+.flaticon-paint-roller:before {
+    content: map-get($flaticon_bexco-construction-map, "paint-roller");
+}
+.flaticon-painter:before {
+    content: map-get($flaticon_bexco-construction-map, "painter");
+}
+.flaticon-crane:before {
+    content: map-get($flaticon_bexco-construction-map, "crane");
+}
+.flaticon-concrete-pump:before {
+    content: map-get($flaticon_bexco-construction-map, "concrete-pump");
+}
+.flaticon-scissor-lift:before {
+    content: map-get($flaticon_bexco-construction-map, "scissor-lift");
+}
+.flaticon-water-meter:before {
+    content: map-get($flaticon_bexco-construction-map, "water-meter");
+}
+.flaticon-screwdriver:before {
+    content: map-get($flaticon_bexco-construction-map, "screwdriver");
+}
+.flaticon-circular-saw:before {
+    content: map-get($flaticon_bexco-construction-map, "circular-saw");
+}
+.flaticon-concrete-mixer:before {
+    content: map-get($flaticon_bexco-construction-map, "concrete-mixer");
+}
+.flaticon-wheelbarrow:before {
+    content: map-get($flaticon_bexco-construction-map, "wheelbarrow");
+}
+.flaticon-steamroller:before {
+    content: map-get($flaticon_bexco-construction-map, "steamroller");
+}
+.flaticon-loader:before {
+    content: map-get($flaticon_bexco-construction-map, "loader");
+}
+.flaticon-planning:before {
+    content: map-get($flaticon_bexco-construction-map, "planning");
+}
+.flaticon-excavator:before {
+    content: map-get($flaticon_bexco-construction-map, "excavator");
+}
+.flaticon-forklift:before {
+    content: map-get($flaticon_bexco-construction-map, "forklift");
+}
+.flaticon-drill:before {
+    content: map-get($flaticon_bexco-construction-map, "drill");
+}
+.flaticon-jackhammer:before {
+    content: map-get($flaticon_bexco-construction-map, "jackhammer");
+}
+.flaticon-fence:before {
+    content: map-get($flaticon_bexco-construction-map, "fence");
+}
+.flaticon-constructor:before {
+    content: map-get($flaticon_bexco-construction-map, "constructor");
+}
+.flaticon-dump-truck:before {
+    content: map-get($flaticon_bexco-construction-map, "dump-truck");
+}
+.flaticon-pincer:before {
+    content: map-get($flaticon_bexco-construction-map, "pincer");
+}
+.flaticon-blueprint:before {
+    content: map-get($flaticon_bexco-construction-map, "blueprint");
+}
+.flaticon-apron:before {
+    content: map-get($flaticon_bexco-construction-map, "apron");
+}
+.flaticon-bulldozing:before {
+    content: map-get($flaticon_bexco-construction-map, "bulldozing");
+}
+.flaticon-color-palette:before {
+    content: map-get($flaticon_bexco-construction-map, "color-palette");
+}
+.flaticon-brush:before {
+    content: map-get($flaticon_bexco-construction-map, "brush");
+}
+.flaticon-hammer:before {
+    content: map-get($flaticon_bexco-construction-map, "hammer");
+}
+.flaticon-fire-hydrant:before {
+    content: map-get($flaticon_bexco-construction-map, "fire-hydrant");
+}
+.flaticon-hand-saw:before {
+    content: map-get($flaticon_bexco-construction-map, "hand-saw");
+}
+.flaticon-helmet:before {
+    content: map-get($flaticon_bexco-construction-map, "helmet");
+}
+.flaticon-house:before {
+    content: map-get($flaticon_bexco-construction-map, "house");
+}
+.flaticon-shovel:before {
+    content: map-get($flaticon_bexco-construction-map, "shovel");
+}
+.flaticon-pipeline:before {
+    content: map-get($flaticon_bexco-construction-map, "pipeline");
+}
+.flaticon-measuring-tape:before {
+    content: map-get($flaticon_bexco-construction-map, "measuring-tape");
+}
+.flaticon-warning-sign:before {
+    content: map-get($flaticon_bexco-construction-map, "warning-sign");
+}
+.flaticon-spirit-level:before {
+    content: map-get($flaticon_bexco-construction-map, "spirit-level");
+}
+.flaticon-telephone:before {
+    content: map-get($flaticon_bexco-construction-map, "telephone");
+}
+.flaticon-up-right-arrow:before {
+    content: map-get($flaticon_bexco-construction-map, "up-right-arrow");
+}
+.flaticon-down-arrow:before {
+    content: map-get($flaticon_bexco-construction-map, "down-arrow");
+}
+.flaticon-helmet-1:before {
+    content: map-get($flaticon_bexco-construction-map, "helmet-1");
+}
+.flaticon-telephone-1:before {
+    content: map-get($flaticon_bexco-construction-map, "telephone-1");
+}
+.flaticon-pin:before {
+    content: map-get($flaticon_bexco-construction-map, "pin");
+}
+.flaticon-mail:before {
+    content: map-get($flaticon_bexco-construction-map, "mail");
+}

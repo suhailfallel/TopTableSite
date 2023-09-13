@@ -1,0 +1,165 @@
+@font-face {
+	font-family: "flaticon_bexco-medical";
+	src: url("../fonts/pbmit-bexco-medical-icon/flaticon_bexco-medical.ttf?49ebf1e0557e8ab6125402638107b8e5") format("truetype"),
+url("../fonts/pbmit-bexco-medical-icon/flaticon_bexco-medical.woff?49ebf1e0557e8ab6125402638107b8e5") format("woff"),
+url("../fonts/pbmit-bexco-medical-icon/flaticon_bexco-medical.woff2?49ebf1e0557e8ab6125402638107b8e5") format("woff2"),
+url("../fonts/pbmit-bexco-medical-icon/flaticon_bexco-medical.eot?49ebf1e0557e8ab6125402638107b8e5#iefix") format("embedded-opentype"),
+url("../fonts/pbmit-bexco-medical-icon/flaticon_bexco-medical.svg?49ebf1e0557e8ab6125402638107b8e5#flaticon_bexco-medical") format("svg");
+}
+i[class^="flaticon-"]:before, i[class*=" pbmit-bexco-medical-icon-"]:before {
+	font-family: flaticon_bexco-medical !important;
+	font-style: normal;
+	font-weight: normal !important;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.pbmit-bexco-medical-icon-nurse:before {
+	content: "\f101";
+}
+.pbmit-bexco-medical-icon-rubber-gloves:before {
+	content: "\f102";
+}
+.pbmit-bexco-medical-icon-scalpel:before {
+	content: "\f103";
+}
+.pbmit-bexco-medical-icon-erlenmeyer:before {
+	content: "\f104";
+}
+.pbmit-bexco-medical-icon-caduceus:before {
+	content: "\f105";
+}
+.pbmit-bexco-medical-icon-bone:before {
+	content: "\f106";
+}
+.pbmit-bexco-medical-icon-health-insurance:before {
+	content: "\f107";
+}
+.pbmit-bexco-medical-icon-bed:before {
+	content: "\f108";
+}
+.pbmit-bexco-medical-icon-bill:before {
+	content: "\f109";
+}
+.pbmit-bexco-medical-icon-diabetes-test:before {
+	content: "\f10a";
+}
+.pbmit-bexco-medical-icon-lung:before {
+	content: "\f10b";
+}
+.pbmit-bexco-medical-icon-infusion:before {
+	content: "\f10c";
+}
+.pbmit-bexco-medical-icon-calendar:before {
+	content: "\f10d";
+}
+.pbmit-bexco-medical-icon-book:before {
+	content: "\f10e";
+}
+.pbmit-bexco-medical-icon-injection:before {
+	content: "\f10f";
+}
+.pbmit-bexco-medical-icon-ekg:before {
+	content: "\f110";
+}
+.pbmit-bexco-medical-icon-medicine:before {
+	content: "\f111";
+}
+.pbmit-bexco-medical-icon-tooth:before {
+	content: "\f112";
+}
+.pbmit-bexco-medical-icon-ambulance:before {
+	content: "\f113";
+}
+.pbmit-bexco-medical-icon-mortar:before {
+	content: "\f114";
+}
+.pbmit-bexco-medical-icon-hospital:before {
+	content: "\f115";
+}
+.pbmit-bexco-medical-icon-doctor:before {
+	content: "\f116";
+}
+.pbmit-bexco-medical-icon-blood-bag:before {
+	content: "\f117";
+}
+.pbmit-bexco-medical-icon-eye:before {
+	content: "\f118";
+}
+.pbmit-bexco-medical-icon-cardiogram:before {
+	content: "\f119";
+}
+.pbmit-bexco-medical-icon-dropper:before {
+	content: "\f11a";
+}
+.pbmit-bexco-medical-icon-ear:before {
+	content: "\f11b";
+}
+.pbmit-bexco-medical-icon-bandage:before {
+	content: "\f11c";
+}
+.pbmit-bexco-medical-icon-flask:before {
+	content: "\f11d";
+}
+.pbmit-bexco-medical-icon-folder:before {
+	content: "\f11e";
+}
+.pbmit-bexco-medical-icon-stethoscope:before {
+	content: "\f11f";
+}
+.pbmit-bexco-medical-icon-scissors:before {
+	content: "\f120";
+}
+.pbmit-bexco-medical-icon-plaster:before {
+	content: "\f121";
+}
+.pbmit-bexco-medical-icon-microscope:before {
+	content: "\f122";
+}
+.pbmit-bexco-medical-icon-medical-kit:before {
+	content: "\f123";
+}
+.pbmit-bexco-medical-icon-hammer:before {
+	content: "\f124";
+}
+.pbmit-bexco-medical-icon-telephone:before {
+	content: "\f125";
+}
+.pbmit-bexco-medical-icon-test-tube:before {
+	content: "\f126";
+}
+.pbmit-bexco-medical-icon-thermometer:before {
+	content: "\f127";
+}
+.pbmit-bexco-medical-icon-weight-scale:before {
+	content: "\f128";
+}
+.pbmit-bexco-medical-icon-blood:before {
+	content: "\f129";
+}
+.pbmit-bexco-medical-icon-breast-cancer:before {
+	content: "\f12a";
+}
+.pbmit-bexco-medical-icon-medical:before {
+	content: "\f12b";
+}
+.pbmit-bexco-medical-icon-emergency-call:before {
+	content: "\f12c";
+}
+.pbmit-bexco-medical-icon-ambulance-1:before {
+	content: "\f12d";
+}
+.pbmit-bexco-medical-icon-doctor-1:before {
+	content: "\f12e";
+}
+.pbmit-bexco-medical-icon-appointment:before {
+	content: "\f12f";
+}
+.pbmit-bexco-medical-icon-heart:before {
+	content: "\f130";
+}
+.pbmit-bexco-medical-icon-arrow-down:before {
+	content: "\f131";
+}
