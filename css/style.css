@@ -23,6 +23,11 @@
 .pbmit-globalcolor{
     color: #991919;
 }
+.font-arrow{
+    font-size: 26px;
+
+}
+
 img {
     height: auto;
     max-width: 100%;
@@ -83,6 +88,7 @@ img {
     background-color:#343435;
     animation: animated1 3s ease-in-out infinite alternate;
 }
+
 
 @media(max-width:1199px)
 {
@@ -1964,7 +1970,7 @@ display: none;
     background-color: var(--pbmit-blackish-color);
 }
 .widget .download .item-download a {
-    font-family:var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
     position: relative;
     text-align: center;
     padding: 20px;
@@ -2066,7 +2072,7 @@ display: none;
     padding-bottom: 0px;
     text-transform: uppercase;
     color: var(--pbmit-blackish-color);
-    font-family:var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
 }
 .portfolio-single .portfolio-left-col .single-portfolio-details-list li .portfolio-line-value{
     display: flex;
@@ -2089,7 +2095,7 @@ display: none;
     color: var(--pbmit-blackish-color);
     font-style: italic;
     border-color: var(--pbmit-global-color);
-    font-family: var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
 }
 .portfolio-single blockquote:not(.wp-block-quote):not(.has-text-color) p {
     position: relative;
@@ -2137,7 +2143,7 @@ display: none;
     font-weight: 500;
 }
 .portfolio-single .post-navigation .pbmit-post-nav{
-    font-family: var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
     font-size: 20px;
     line-height: 26px;
     transition: all 0.3s ease-in-out;
@@ -2215,7 +2221,7 @@ display: none;
     color: var(--pbmit-blackish-color);
     transition: all 500ms ease;
     -webkit-transition: all 500ms ease;
-    font-family: var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
     border-bottom: 1px solid rgba(30, 30, 37, .50);
 }
 .sidebar .widget .search-form a{
@@ -2238,7 +2244,7 @@ display: none;
     margin-bottom: 0;
 }
 .sidebar .widget .widget-title{ 
-    font-family: Kanit,sans-serif;
+    font-family: 'Poppins';
     font-weight: 500;
     font-size: 24px;
     line-height: 34px;
@@ -2266,7 +2272,7 @@ display: none;
     text-transform: uppercase;
     font-weight: normal;
     font-style: normal;
-    font-family: var(--pbmit-heading-typography-font-family);
+   font-family: 'Poppins';
 }
 .sidebar .widget-categories ul .pbmit-brackets{
     margin-left: 7px;
@@ -2306,7 +2312,7 @@ display: none;
     -webkit-line-clamp: 2;
     font-weight: normal;
     font-style: normal;
-    font-family: var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
 }
 .widget-recent-post .media-body a:hover{
     color: rgba(39, 39, 47,.7);
@@ -2326,7 +2332,7 @@ display: none;
     font-weight: normal;
     text-transform: uppercase;
     color:  rgba(39, 39, 47,.6);
-    font-family: var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
 }
 .sidebar .widget .tagcloud a{
     display: inline-block;
@@ -2343,7 +2349,7 @@ display: none;
     background: transparent;
     letter-spacing: 0;
     text-transform: uppercase;
-    font-family: var(--pbmit-heading-typography-font-family);
+   font-family: 'Poppins';
 }
 .sidebar .widget .tagcloud a:hover{
      color: var(--pbmit-white-color);
@@ -2520,7 +2526,7 @@ display: none;
     color: #666;
 }
 .pbmit-blog-meta-top .pbmit-meta {
-    font-family:var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
     display: inline-block;
     margin-right: 30px;
     position: relative;
@@ -2597,7 +2603,7 @@ display: none;
     color: var(--pbmit-blackish-color);
     font-style: italic;
     border-color: var(--pbmit-global-color);
-    font-family: var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
 }
 .post.blog-details blockquote:not(.wp-block-quote):not(.has-text-color) p {
     position: relative;
@@ -2684,7 +2690,7 @@ ul.pbmit-blog-list-ele>li>i {
     flex: 1;
 }
 .blog-right-col .post-navigation .pbmit-post-nav-content{
-    font-family:var(--pbmit-heading-typography-font-family);
+   font-family: 'Poppins';
 }
 .blog-right-col .post-navigation .pbmit-post-nav-content .pbmit-post-nav-head{
     font-size: 14px;
@@ -2851,7 +2857,7 @@ i.fa.fa-plus {
     margin-bottom: 10px;
     margin-bottom: 10px;
     display: inline-block;
-    font-family: var(--pbmit-heading-typography-font-family);
+   font-family: 'Poppins';
 }
 .pbmit-author-content .pbmit-text {
     margin: 0;
@@ -2896,14 +2902,14 @@ i.fa.fa-plus {
     font-weight: 400;
     display: inline-flex;
     position: relative;
-    font-family:var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
 }
 .pbmit-comment-author-inner {
     color: var(--pbmit-blackish-color);
     margin: 0 5px;
 }
 .pbmit-comment-date {
-    font-family:var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
     margin: 0 0 0 15px;
 }
 .pbmit-comment-date a {
@@ -2968,11 +2974,11 @@ i.fa.fa-plus {
     font-size: 18px;
     line-height: 24px;
     font-weight: 700;
-    font-family: var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
     color: var(--pbmit-blackish-color);
 }
 .comment-meta .reply a{
-    font-family: var(--pbmit-heading-typography-font-family);
+   font-family: 'Poppins';
     display: inline-block;
     font-size: 16px;
     line-height: 26px;
@@ -3047,7 +3053,7 @@ i.fa.fa-plus {
     font-weight: 400;
     resize: none;
     padding: 40px 15px;
-    font-family:var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
     font-weight: normal;
     font-style: normal;
     margin-bottom: 10px;
@@ -3305,7 +3311,7 @@ input:focus, .form-control:focus {
     color: #848484;
     border: 1px solid #eeeeee;
     border-radius: 5px;
-    font-family: var(--pbmit-heading-typography-font-family);
+   font-family: 'Poppins';
     font-weight: 500;
 }
 .form-select:focus {
@@ -3340,7 +3346,7 @@ input:focus, .form-control:focus {
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 .btn-style {
-  padding: 12px 40px;
+  padding: 15px 35px;
   font-size: 18px;
   line-height: 30px;
   font-weight: 200;
@@ -3377,14 +3383,42 @@ input:focus, .form-control:focus {
   border: 1px solid #25D366;
 }
 .btn-style-1 {
-  padding: 5px 20px;
-  font-size: 18px;
+  padding: 8px 20px;
+  font-size: 20px;
   line-height: 20px;
   font-weight: 200;
   transition: 0.3s ease-in;
   font-family: 'Poppins';
-  margin: 32px 30px;
+  margin: 32px -25px;
 }
+
+.btn-style-2 {
+  padding: 8px 20px;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 200;
+  transition: 0.3s ease-in;
+  font-family: 'Poppins';
+  margin: 32px 0px;
+}
+.sel-lang{
+    font-size:5px;
+    height: 1cm;
+    width: .5cm;
+    margin: 36px 65px;
+    color: #991919;
+}
+
+@media(max-width:1199px){
+ .btn-style-1 {
+  margin: 30px 25px;
+}
+.sel-lang{
+  margin: 15px 25px;  
+}
+}
+
+
 
 
 

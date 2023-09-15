@@ -14,15 +14,15 @@
      --pbmit-global-color-rgb: rgb(201, 243, 29);
      --pbmit-secondary-color-rgb:rgb(30, 30, 37);
      --pbmit-responsive-breakpoint: 1200px;
-     --pbmit-body-typography-font-family:'DM Sans', sans-serif;
+     --pbmit-body-typography-font-family:'Poppins';
      --pbmit-body-typography-variant: regular;
      --pbmit-body-typography-font-size: 17px;
      --pbmit-body-typography-line-height: 1.8;
      --pbmit-body-typography-color: #666666;
-     --pbmit-heading-typography-font-family:  'Kanit', sans-serif;
+     --pbmit-heading-typography-font-family:'Poppins';
      --pbmit-heading-color: #27272f;
      --pbmit-heading-font-variant:normal;
-     --pbmit-btn-typography-font-family:  'Kanit', sans-serif;
+     --pbmit-btn-typography-font-family:'Poppins';
      --pbmit-btn-typography-variant: 500;
      --pbmit-btn-typography-font-size: 15px;
      --pbmit-btn-typography-line-height: 25px;

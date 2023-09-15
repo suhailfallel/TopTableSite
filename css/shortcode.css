@@ -56,7 +56,7 @@
     margin-top: 25px;
 }
 .pbmit-heading-subheading .pbmit-subtitle {
-    font-family: var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
     font-weight: 500;
     font-size: 15px;
     line-height: 25px;
@@ -66,7 +66,7 @@
     font-style: normal;
 }
 .pbmit-heading-subheading .pbmit-title {
-    font-family: var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
     font-size: 60px;
     line-height: 60px;
     letter-spacing: 0px;
@@ -89,7 +89,7 @@
     margin-bottom: 50px;
 }
 .pbmit-heading-subheading-style-1 .pbmit-title{
-    font-family:  var(--pbmit-heading-typography-font-family);
+   font-family: 'Poppins';
     font-weight: 700;
     font-size: 48px;
     line-height: 48px;
@@ -103,7 +103,7 @@
 }
 /** Style 2 **/
 .pbmit-heading-subheading-style-2 .pbmit-subtitle {
-    font-family: var(--pbmit-heading-typography-font-family);
+   font-family: 'Poppins';
     font-weight: normal;
     font-size: 15px;
     line-height: 25px;
@@ -144,7 +144,7 @@
     margin-left: 10px;
 }
 .pbmit-heading-subheading-style-2 .pbmit-title {
-    font-family: var(--pbmit-heading-typography-font-family);
+   font-family: 'Poppins';
     font-weight: normal;
     font-size: 58px;
     line-height: 68px;
@@ -188,7 +188,7 @@
 }
 /** Style 4 **/
 .pbmit-heading-subheading-style-4 .pbmit-subtitle {
-    font-family: var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
     font-weight: 500;
     font-size: 12px;
     line-height: 24px;
@@ -212,7 +212,7 @@
     color: rgba(188, 30, 36,.1);
 }
 .pbmit-heading-subheading-style-4 .pbmit-title {
-    font-family:var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
     font-weight: normal;
     font-size: 48px;
     line-height: 48px;
@@ -229,7 +229,7 @@
 .pbmit-heading-subheading-style-5 .pbmit-title{
 	padding-top: 55px;
 	position: relative;
-    font-family:var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
     font-weight: 800;
     font-size: 48px;
     line-height: 48px;
@@ -266,7 +266,7 @@
 }
 /** Style 6 **/
 .pbmit-heading-subheading-style-6 .pbmit-subtitle {
-    font-family: Lato,sans-serif;
+   font-family: 'Poppins';
     font-weight: normal;
     font-size: 16px;
     line-height: 20px;
@@ -276,7 +276,7 @@
     font-style: normal;
 }
 .pbmit-heading-subheading-style-6 .pbmit-title {
-    font-family: var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
     font-weight: normal;
     font-size: 48px;
     line-height: 52px;
@@ -387,7 +387,7 @@
 	color: var(--pbmit-white-color);
 }
 .pbmit-heading-subheading-style-12 .pbmit-subtitle{
-	font-family: Tangerine,sans-serif;
+	font-family: 'Poppins';
 	color: var(--pbmit-global-color);
 	font-weight: 700;
     font-size: 30px;
@@ -792,10 +792,10 @@
 	transition: all 0.6s ease 0s;
 }
 .pbmit-ihbox-style-6 .pbmit-element-title {
-	font-size: 26px;
+	font-size: 25px;
 	line-height: 32px;
 	margin-bottom: 0px;
-    font-family: var(--pbmit-heading-typography-font-family);
+    font-family: 'Poppins';
     font-weight: 500;
     font-style: normal;
 }
@@ -813,7 +813,7 @@
 	font-size: 24px;
 	font-weight: 400!important;
 	opacity: .85;
-    font-family: var(--pbmit-heading-typography-font-family);
+   font-family: 'Poppins';
 }
 .pbmit-ihbox-style-6 .pbmit-ihbox-text .pbmit-ihbox-icon-type-image img{
 	width: 100px;

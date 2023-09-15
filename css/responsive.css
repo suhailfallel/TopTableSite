@@ -934,7 +934,9 @@ body {
 		min-height: auto; 
 	}
     .site-header .site-branding img { 
-		max-height: 50px; 
+		max-height: 40px;
+		margin-top: -15px; 
+		margin-left: 0px;
 	}
     .site-header .sticky-header .site-branding img {
 		 max-height: 35px; 

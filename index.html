@@ -88,8 +88,42 @@
                                                 <li><a href="#">Pricing</a></li>
                                                 <li><a href="#">Testimonials</a></li>
                                                 <li><a href="#">Contact</a></li>
+                                                <li>
+                                                <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+                                                 <div id="google_translate_element" class="sel-lang"></div>                      
+                                                  <script type="text/javascript">  
+                                                  function googleTranslateElementInit() {  
+                                                  new google.translate.TranslateElement(  
+                                                      {pageLanguage:'en',includedLanguages : 'en,ar,hi'},  
+                                                      'google_translate_element'  
+                                                  );
+                                                   var $googleDiv = $("#google_translate_element .skiptranslate");
+                                                    var $googleDivChild = $("#google_translate_element .skiptranslate div");
+                                                    $googleDivChild.next().remove();
+
+                                                    $googleDiv.contents().filter(function(){
+                                                      return this.nodeType === 3 && $.trim(this.nodeValue) !== '';
+                                                    }).remove();
+
+                                            $(document).ready(function(){
+                                              $('#google_translate_element').bind('DOMNodeInserted', function(event) {
+                                                $('.goog-te-menu-value span:first').html('Translate');
+                                                $('.goog-te-menu-frame.skiptranslate').load(function(){
+                                                  setTimeout(function(){
+                                                    $('.goog-te-menu-frame.skiptranslate').contents().find('.goog-te-menu2-item-selected .text').html('Translate');    
+                                                  }, 100);
+                                                });
+                                              });
+                                            });
+
+                                              }  
+                                          </script>
+                                          <script type="text/javascript"   
+                                          src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">  
+                                          </script>
+                                          </li> 
                                                 <a href="#" class="btn btn-style-1 btn-white-2"><i class="fa fa-whatsapp">&nbsp;Whatsapp</i></a>
-                                             </ul>
+                                            </ul>
                                           </div>
                                        </div>
                                     </nav>
@@ -107,7 +141,7 @@
                   <rs-module id="rev_slider_1_1" data-version="6.6.10">
                      <rs-slides style="overflow: hidden; position: absolute;">
                         <rs-slide style="position: absolute;" data-key="rs-1" data-title="Slide" data-anim="d:100;ms:1500ms;" data-in="o:0;" data-out="a:false;">
-                           <img src="revolution/images/dummy.png" alt="" title="marketing-slide-1" width="1920" height="1076" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/laaandf.jpg" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
+                           <img src="revolution/images/dummy.png" alt="" title="marketing-slide-1" width="1920" height="1076" class="rev-slidebg tp-rs-img" data-lazyload="images/laaandf.jpg" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
 
 
 
@@ -115,12 +149,12 @@
                               id="slider-1-slide-1-layer-1" 
                               data-type="text"
                               data-rsp_ch="on"
-                              data-xy="xo:40px,40px,40px,0;y:m;yo:-178px,-75px,-61px,-51px;x:l,l,c,c;"
+                              data-xy="xo:100px,40px,40px,0;y:m;yo:-178px,-75px,-61px,-51px;x:l,l,c,c;"
                               data-text="s:25,20,20,20;l:30,30,28,28;a:inherit,inherit,inherit,center;"
                               data-border="bos:solid;boc:#ffffff;bow:0,0,0px,0;"
                               data-frame_0="x:-100%;o:1;"
                               data-frame_0_mask="u:t;"
-                              data-frame_1="st:350;sp:1240;sR:350;"
+                              data-frame_1="st:300;sp:1240;sR:350;"
                               data-frame_1_mask="u:t;"
                               data-frame_999="o:0;st:w;sR:7410;"
                               style="z-index:8;font-family: 'Poppins';"
@@ -131,11 +165,11 @@
                               id="slider-1-slide-1-layer-3" 
                               data-type="text"
                               data-rsp_ch="on"
-                              data-xy="x:l,l,c,c;xo:30px,30px,30px,0;y:m;yo:-120px,-20px,-25px,-20px;"
+                              data-xy="x:l,l,c,c;xo:95px,30px,30px,0;y:m;yo:-120px,-20px,-25px,-20px;"
                               data-text="s:80,78,40,35;l:120,100,90,80;fw:500;w:normal;a:inherit,inherit,inherit,center;"
                               data-frame_0="x:-100%;o:1;"
                               data-frame_0_mask="u:t;"
-                              data-frame_1="x:-1px;st:840;sp:1390;sR:840;"
+                              data-frame_1="x:-1px;st:800;sp:1390;sR:840;"
                               data-frame_1_mask="u:t;"
                               data-frame_999="o:0;st:w;sR:6770;"
                               style="z-index:9;font-family: 'Poppins';"
@@ -146,11 +180,11 @@
                               id="slider-1-slide-1-layer-5" 
                               data-type="text"
                               data-rsp_ch="on"
-                              data-xy="x:l,l,c,c;xo:30px,30px,30px,0;y:m;yo:-35px,70px,25px,25px;"
+                              data-xy="x:l,l,c,c;xo:95px,30px,30px,0;y:m;yo:-35px,70px,25px,25px;"
                               data-text="w:normal;s:80,78,40,40;l:120,100,90,75;fw:200;a:inherit,inherit,inherit,center;"
                               data-frame_0="x:-100%;o:1;"
                               data-frame_0_mask="u:t;"
-                              data-frame_1="y:1px;st:2300;sp:1440;sR:2300;"
+                              data-frame_1="y:1px;st:1300;sp:1440;sR:2300;"
                               data-frame_1_mask="u:t;"
                               data-frame_999="o:0;st:w;sR:5260;"
                               style="z-index:10;font-family: 'Poppins';"
@@ -161,11 +195,11 @@
                               id="slider-1-slide-1-layer-6" 
                               data-type="text"
                               data-rsp_ch="on"
-                              data-xy="x:l,l,c,c;xo:40px,40px,40px,0;y:m;yo:25px,130px,70px,60px;"
+                              data-xy="x:l,l,c,c;xo:100px,40px,40px,0;y:m;yo:25px,130px,70px,60px;"
                               data-text="s:25,20,20,15;l:30,30,28,28;a:inherit,inherit,inherit,center;"
                               data-frame_0="x:-100%;o:1;"
                               data-frame_0_mask="u:t;"
-                              data-frame_1="st:350;sp:1240;sR:350;"
+                              data-frame_1="st:2500;sp:1240;sR:350;"
                               data-frame_1_mask="u:t;"
                               data-frame_999="o:0;st:w;sR:7410;"
                               style="z-index:11;font-family: 'Poppins';"
@@ -176,11 +210,11 @@
                               id="slider-1-slide-1-layer-7" 
                               data-type="button"
                               data-rsp_ch="on"
-                              data-xy="xo:30px,18px,30px,18px;y:m;yo:90px,180px,140px,120px;x:l,l,c,c;"
+                              data-xy="xo:100px,18px,30px,18px;y:m;yo:90px,180px,140px,120px;x:l,l,c,c;"
                               data-text="w:normal;s:22,20,15,9;l:40,38,28,17;ls:20px,20px,15px,9px;a:inherit,inherit,inherit,center;"
                               data-frame_0="sX:2;sY:2;"
                               data-frame_0_mask="u:t;"
-                              data-frame_1="e:power2.out;st:2000;sp:1000;"
+                              data-frame_1="e:power2.out;st:2500;sp:1000;"
                               data-frame_1_mask="u:t;"
                               data-frame_999="o:0;st:w;"
                               style="z-index:12;"
@@ -202,7 +236,7 @@
                               data-frame_1="sp:580;"
                               data-frame_999="o:0;st:w;sR:8420;"
                               style="z-index:6;"
-                           ><img src="revolution/images/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1257" height="977" data-lazyload="revolution/images/marketing-slide-black.png" data-no-retina> 
+                           ><img src="revolution/images/dummy.png" alt="" class="tp-rs-img " width="1257" height="977" data-lazyload="revolution/images/marketing-slide-black.png" data-no-retina> 
                            </rs-layer><!--
 
                   --></rs-slide>
@@ -278,7 +312,7 @@
                            <div class="pbmit-ihbox-headingicon">
                               <div class="pbmit-ihbox-content-wrapper d-flex align-items-center">
                                  <div class="pbmit-ihbox-title">
-                                    <h2 class="pbmit-element-title"><span class="pbmit-globalcolor">01</span>. Streamlined Operations</h2>
+                                    <h2 class="pbmit-element-title"><span class="pbmit-globalcolor font-arrow">&#8658;</span> Streamlined Operations</h2>
                                  </div>
                               </div>
                            </div>
@@ -287,7 +321,7 @@
                            <div class="pbmit-ihbox-headingicon">
                               <div class="pbmit-ihbox-content-wrapper d-flex align-items-center">
                                  <div class="pbmit-ihbox-title">
-                                    <h2 class="pbmit-element-title"><span class="pbmit-globalcolor">02</span>. Precision Order Management</h2>
+                                    <h2 class="pbmit-element-title"><span class="pbmit-globalcolor font-arrow">&#8658;</span> Precision Order Management</h2>
                                  </div>
                               </div>
                            </div>
@@ -296,7 +330,7 @@
                            <div class="pbmit-ihbox-headingicon">
                               <div class="pbmit-ihbox-content-wrapper d-flex align-items-center">
                                  <div class="pbmit-ihbox-title">
-                                    <h2 class="pbmit-element-title"><span class="pbmit-globalcolor">03</span>. Unparalleled Inventory Control</h2>
+                                    <h2 class="pbmit-element-title"><span class="pbmit-globalcolor font-arrow">&#8658;</span> Unparalleled Inventory Control</h2>
                                  </div>
                               </div>
                            </div>
@@ -305,7 +339,7 @@
                            <div class="pbmit-ihbox-headingicon">
                               <div class="pbmit-ihbox-content-wrapper d-flex align-items-center">
                                  <div class="pbmit-ihbox-title">
-                                    <h2 class="pbmit-element-title"><span class="pbmit-globalcolor">04</span>. Seamless Table Reservations</h2>
+                                    <h2 class="pbmit-element-title"><span class="pbmit-globalcolor font-arrow">&#8658;</span> Seamless Table Reservations</h2>
                                  </div>
                               </div>
                            </div>
@@ -314,7 +348,7 @@
                            <div class="pbmit-ihbox-headingicon">
                               <div class="pbmit-ihbox-content-wrapper d-flex align-items-center">
                                  <div class="pbmit-ihbox-title">
-                                    <h2 class="pbmit-element-title"><span class="pbmit-globalcolor">05</span>. In-Depth Reporting and Analytics</h2>
+                                    <h2 class="pbmit-element-title"><span class="pbmit-globalcolor font-arrow">&#8658;</span> In-Depth Reporting and Analytics</h2>
                                  </div>
                               </div>
                            </div>
@@ -2026,6 +2060,5 @@
       <script src="revolution/rslider.js"></script>
       <script src="revolution/rbtools.min.js"></script>
       <script src="revolution/rs6.min.js"></script>
-
    </body>
 </html>

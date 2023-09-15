@@ -17,7 +17,7 @@ INDEX:
 /* 00 - General 
 /*----------------------------------------*/
  html {
-     font-family: sans-serif;
+     font-family: 'Poppins';
      -webkit-text-size-adjust: 100%;
      -ms-text-size-adjust: 100%;
 }
@@ -175,7 +175,7 @@ body {
 /* 01 - Typography 
 /*----------------------------------------*/
  body {
-     font-family:var(--pbmit-body-typography-font-family);
+     font-family: 'Poppins';
      font-weight: var(--pbmit-body-typography-variant);
      color: var(--pbmit-body-typography-color);
      font-size: var(--pbmit-body-typography-font-size);
@@ -236,7 +236,7 @@ a:focus {
      text-decoration: none !important;
 }
  a.link-btn, .link-btn a{
-     font-family: "Montserrat", Arial, Helvetica, sans-serif;
+     font-family: 'Poppins';
      font-weight: 700;
      text-transform: uppercase;
      font-size: 14px;
@@ -251,7 +251,7 @@ a:focus {
 .pbmit-btn {
      display: inline-block;
      text-decoration: none;
-     font-family: var(--pbmit-btn-typography-font-family);
+     font-family: 'Poppins';
      font-size: var(--pbmit-btn-typography-font-size);
      font-weight: var(--pbmit-btn-typography-variant);
      line-height: var(--pbmit-btn-typography-line-height);
@@ -360,7 +360,7 @@ a:focus {
     stroke: var(--pbmit-white-color);
 }
 .pbmit-btn-style-flat.pbmit-svg-btn .pbmit-btn {
-    font-family: var(--pbmit-btn-typography-font-family);
+    font-family: 'Poppins';
     font-weight: 600;
     font-size: 14px;
     line-height: 24px;
@@ -539,7 +539,8 @@ a:focus {
      display: inline-block;
      max-width: 100%;
      height: auto;
-     max-height: 60px;
+     margin-left: 0px;
+     max-height: 55px;
      -webkit-transition: all 0.4s ease-in-out;
      -moz-transition: all 0.4s ease-in-out;
      -o-transition: all 0.4s ease-in-out;
@@ -547,7 +548,7 @@ a:focus {
 }
  .site-navigation ul.navigation > li > a {
      display: block;
-     margin: 0px 30px;
+     margin: 0px 17px;
      padding: 0px;
      text-transform: none;
      text-decoration: none;
@@ -574,10 +575,10 @@ a:focus {
     color: var(--pbmit-white-color);
 }
  .site-navigation ul.navigation a{
-     font-family: var(--pbmit-heading-typography-font-family);
-     font-weight: normal;
+     font-family: 'Poppins';
+     font-weight: 100;
      font-size: 14px;
-     font-style: normal;
+
 }
  .main-menu .navigation > li {
      position: relative;
