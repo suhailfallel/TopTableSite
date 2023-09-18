@@ -25,6 +25,7 @@
 }
 .font-arrow{
     font-size: 26px;
+    font-weight: bolder;
 
 }
 
@@ -38,7 +39,7 @@ img {
 }
 .marketing-marquee{
     padding: 20px 0;
-    background-color:#343435;
+    background-color:#fff;
 }
 .marketing-ihbox {
     padding-right: 30px;
@@ -151,7 +152,7 @@ display: none;
     width: 2000px;
     background: rgba(39, 39, 47,.1);
     left: -325px;
-    top: 115px;
+    top: 100px;
     right: auto;
 }
 .marketing-video-bg{
@@ -3345,8 +3346,9 @@ input:focus, .form-control:focus {
   border-radius: 0.25rem;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
+
 .btn-style {
-  padding: 15px 35px;
+padding: 14px 25px 14px 25px;
   font-size: 18px;
   line-height: 30px;
   font-weight: 200;
@@ -3392,6 +3394,26 @@ input:focus, .form-control:focus {
   margin: 32px -25px;
 }
 
+.btn-2 {
+  display: inline-block;
+  font-weight: 100;
+  color: #212529;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 0.5rem;
+  line-height: 1.5;
+  border-radius: 1.5rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
 .btn-style-2 {
   padding: 8px 20px;
   font-size: 20px;
@@ -3403,9 +3425,9 @@ input:focus, .form-control:focus {
 }
 .sel-lang{
     font-size:5px;
-    height: 1cm;
-    width: .5cm;
-    margin: 36px 65px;
+    height: 1.7cm;
+    width:1.7cm;
+    margin: 30px 65px;
     color: #991919;
 }
 
@@ -3414,15 +3436,134 @@ input:focus, .form-control:focus {
   margin: 30px 25px;
 }
 .sel-lang{
-  margin: 15px 25px;  
+  margin: 10px 0px -20px 25px;  
 }
 }
 
 
 
+select{
+  border-radius:30px;
+  border-color: #991911;
+  align-content: center;
+  font-size: 14px;
+  color: #991919;
+  background-color: transparent;
+   padding: 5px 0px;
+}
+
+select:focus{
+  outline:none;
+}
 
 
 
+.new-btn {
+  padding: 15px 25px 15px 25px;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 200;
+  transition: 0.3s ease-in;
+  display: inline-block;
+  border-radius: 0.25rem;
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  text-align: center;
+  margin-top: 8px;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.new-btn:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  border-radius: 0.25rem;
+  z-index: -2;
+  border: 1px solid #fff;
+}
+.new-btn:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  height: 110%;
+  background-color: #991919;
+  transition: all 0.3s;
+  border-radius: 0.25rem;
+  z-index: -1;
+}
+.new-btn:hover {
+  color: #fff;
+}
+.new-btn:hover:before {
+  width: 100%; 
+}
+
+.more{
+  box-shadow: inset 0 0 0 0 #991919;
+  color: #991919;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+.more:hover{
+ box-shadow: inset 100px 0 0 0 #991919;
+  color: #fff;
+
+}
+
+.more-1{
+  box-shadow: inset 0 0 0 0 #991919;
+  color: #fff;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+  font-size: 14px;
+}
+.more-1:hover{
+ box-shadow: inset 100px 0 0 0 #991919;
+  color: #fff;
+}
+
+.fea-span{
+    background-color:#991919;
+    color: #fff;
+    animation-delay: 3s;
+}
+
+
+.pbmit-element-title-1{
+    color: #fff;
+    font-size: 20px;
+    line-height: 25px;
+}
+.pbmit-heading-desc-1
+{
+    color: #fff;
+    font-size: 14px;
+}
 
 
 
+.clients {
+    padding:20px 0;
+}
+.box {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    width: 70%;
+    height: 70%;
+    transition: transform .5s ease-in;
+    margin: 8px auto;
+}
+.box img {
+    max-width: 100%;
+    max-height: 100%;
+    width: 100%;
+}
+.box:hover {
+    transform: scale(1.2);
+}

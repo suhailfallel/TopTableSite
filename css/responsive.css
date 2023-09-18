@@ -168,7 +168,7 @@ body {
 		height: 10px;
 		width: 10px;
 		border-radius: 50%;
-		top: 110px;
+		top: 5px;
 		left: 0;
 		background-color: var(--pbmit-blackish-color);
 	}
@@ -1643,7 +1643,7 @@ body {
 @media(max-width:767px) {
 	/* Heading-subheading */
 	.pbmit-heading-subheading{
-		margin-bottom: 30px;
+		margin-bottom: 0px;
 	}
 	.pbmit-heading-subheading .pbmit-title{
 		font-size: 40px;

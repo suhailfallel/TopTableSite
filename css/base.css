@@ -539,13 +539,23 @@ a:focus {
      display: inline-block;
      max-width: 100%;
      height: auto;
-     margin-left: 0px;
-     max-height: 55px;
+     margin-left:-50px;
+     max-height: 60px;
      -webkit-transition: all 0.4s ease-in-out;
      -moz-transition: all 0.4s ease-in-out;
      -o-transition: all 0.4s ease-in-out;
      transition: all 0.4s ease-in-out;
+     margin-top: -40px;
 }
+
+@media(min-width:1920px)
+{
+    .site-header .site-branding img {
+     margin-left: 215px;
+}
+}
+
+
  .site-navigation ul.navigation > li > a {
      display: block;
      margin: 0px 17px;
@@ -558,6 +568,7 @@ a:focus {
      line-height: 100px;
      letter-spacing: 1px;
      color: var(--pbmit-white-color);
+}
 }
 .site-header .site-navigation ul.navigation > li.active > a{
     color: var(--pbmit-global-color);
@@ -742,6 +753,7 @@ a:focus {
      position: relative;
      overflow: hidden;
      z-index: 1;
+     top: -25px;
 }
  .swiper-pagination-bullet {
     border: 0;
