@@ -1723,18 +1723,19 @@
 	transition: all 0.6s ease 0s;
 }
 .pbmit-ihbox-style-19 .pbmit-element-title{
-	font-size: 34px;
+	font-size: 20px;
 	line-height: 36px;
 	letter-spacing: -0.5px;
     font-weight: normal;
     font-family: var(--pbmit-body-typography-font-family);
+    color: #fff;
 }
 .pbmit-ihbox-style-19 .pbmit-element-heading{
 	font-size: 17px;
 	text-transform: uppercase;
 	line-height: 30px;
 	margin-bottom: 10px;
-	color: rgba(39, 39, 47, 0.7);
+	color: #991919;
 }
 .pbmit-ihbox-style-19 .pbmit-box-content{
 	position: relative;
@@ -9352,7 +9353,7 @@
 }
 .footer-wrap .row .pbmit-footer-logo {
     text-align: left;
-    width: 140px;
+    width: 250px;
     margin: 0;
 }
 .pbmit-footer-big-area .pbmit-footer-right-box {
