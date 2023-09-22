@@ -935,7 +935,7 @@ body {
 	}
     .site-header .site-branding img { 
 		max-height: 40px;
-		margin-top: -15px; 
+		margin-top: -10px; 
 		margin-left: 0px;
 	}
     .site-header .sticky-header .site-branding img {
@@ -1692,7 +1692,7 @@ body {
     /** Section Title **/ 
 	.pbmit-heading-subheading .pbmit-title {
 		font-size: 40px;
-		line-height: 50px;
+		line-height: 55px;
 	}	
 	.pbmit-heading-subheading-style-1 .pbmit-title{
 		font-size: 26px;
