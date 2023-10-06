@@ -376,11 +376,11 @@ a:focus {
     stroke: var(--pbmit-white-color);
 }
 .pbmit-btn-blackish{
-    color: var(--pbmit-white-color);
-    background-color: var(--pbmit-blackish-color);
+    color: #fff;
+    background-color: #991919;
 }
 .pbmit-btn-blackish:hover{
-    color: var(--pbmit-blackish-color);
+    color: #fff;
     background-color: var(--pbmit-global-color);
 }
 .pbmit-btn-hover-global:hover,
@@ -856,8 +856,8 @@ a:focus {
 }
 .pbmit-progress-wrap {
     position: fixed;
-    right: 50px;
-    bottom: 50px;
+    right: 30px;
+    bottom: 90px;
     height: 50px;
     width: 50px;
     cursor: pointer;
